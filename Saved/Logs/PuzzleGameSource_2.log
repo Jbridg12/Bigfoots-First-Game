@@ -4310,3 +4310,23 @@ Script Stack (0 frames) :
 [2023.03.22-20.49.32:632][785]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/Interactives/TextUI.TextUI
 [2023.03.22-20.49.57:763][917]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
 [2023.03.22-20.49.57:763][917]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.22-20.54.17:475][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.22-20.54.17:707][467]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased
+[2023.03.22-20.54.17:708][467]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/INT_TextBasedE05ABEAE4023E948FF44AB9674585CF7.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/Interactives/INT_TextBased.uasset'
+[2023.03.22-20.54.17:725][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 249 ms (total: 1:37 min)
+[2023.03.22-20.54.17:748][467]AssetCheck: New page: Asset Save: INT_TextBased
+[2023.03.22-20.54.17:748][467]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased
+[2023.03.22-20.54.19:850][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.03.22-20.54.19:854][536]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.123
+[2023.03.22-20.54.19:855][536]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/Interactives/TextUI] ([2] browsable assets)...
+[2023.03.22-20.54.19:859][536]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/Interactives/TextUI.TextUI]
+[2023.03.22-20.54.19:859][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Interactives/TextUI]
+[2023.03.22-20.54.19:865][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Interactives/TextUI_Auto5
+[2023.03.22-20.54.19:865][536]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/TextUI_Auto56A79EA4B4F10475DC4CA6E83B9882936.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/Interactives/TextUI_Auto5.uasset'
+[2023.03.22-20.54.19:868][536]LogFileHelpers: Auto-saving content packages took 0.012
+[2023.03.22-20.54.24:173][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.22-20.54.24:311][703]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Interactives/TextUI
+[2023.03.22-20.54.24:312][703]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/TextUI6D4CC9E54783368FE1173088765505B4.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/Interactives/TextUI.uasset'
+[2023.03.22-20.54.24:334][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 1:37 min)
+[2023.03.22-20.54.24:344][703]AssetCheck: New page: Asset Save: TextUI
+[2023.03.22-20.54.24:344][703]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/Interactives/TextUI.TextUI
