@@ -7783,3 +7783,616 @@ Asset CAMERA_lambert1_OcclusionRoughnessMetallic -> Missing file C:/Users/joshu/
 [2023.04.20-14.48.13:806][930]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/ImageTextures/ItemImages/Dark_Tape.Dark_Tape
 [2023.04.20-14.48.13:827][931]LogAutomationController: Ignoring very large delta of 11.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.04.20-14.48.35:449][ 31]LogDerivedDataCache: C:/Users/joshu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.656 and deleted 0 files with total size 0 MiB. Scanned 4248 files in 4210 folders with total size 114 MiB.
+[2023.04.20-14.49.38:890][454]LogInterchangeEngine: [Pending] Importing
+[2023.04.20-14.49.38:910][454]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.04.20-14.49.38:914][455]LogAutomationController: Ignoring very large delta of 10.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-14.49.39:340][455]LogTexture: Display: Building textures: /Game/ThirdPerson/ImageTextures/ItemImages/KeithID.KeithID (BGRA8, 1200x675 x1x1x1) (Required Memory Estimate: 23.75177 MB), EncodeSpeed: Fast
+[2023.04.20-14.49.39:444][455]LogInterchangeEngine: [Success] Import Done
+[2023.04.20-14.49.39:456][455]LogInterchangeEngine: [Success] Import Done
+[2023.04.20-14.49.45:731][729]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2023.04.20-14.49.47:053][729]LogSlate: Window 'Save Content' being destroyed
+[2023.04.20-14.49.47:118][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.20-14.49.47:292][729]LogSavePackage: Moving output files for package: /Game/ThirdPerson/ImageTextures/ItemImages/KeithID
+[2023.04.20-14.49.47:293][729]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/KeithID51C153C7433B84FF2EACA09475380D58.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/ImageTextures/ItemImages/KeithID.uasset'
+[2023.04.20-14.49.47:320][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 38.5 sec)
+[2023.04.20-14.49.47:335][729]AssetCheck: New page: Asset Save: KeithID
+[2023.04.20-14.49.47:335][729]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/ImageTextures/ItemImages/KeithID.KeithID
+[2023.04.20-14.50.00:395][383]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.04.20-14.50.00:802][385]LogEditorViewport: Clicking Background
+[2023.04.20-14.50.01:307][406]Cmd: TRANSACTION UNDO
+[2023.04.20-14.50.01:308][406]LogEditorTransaction: Undo Clicking Background
+[2023.04.20-14.50.04:887][556]Cmd: TRANSACTION UNDO
+[2023.04.20-14.50.04:887][556]LogEditorTransaction: Undo Clicking on Elements
+[2023.04.20-14.50.05:690][585]LogShaderCompilers: Display: ================================================
+[2023.04.20-14.50.05:690][585]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.20-14.50.05:690][585]LogShaderCompilers: Display: Total job queries 403, among them cache hits 74 (18.36%)
+[2023.04.20-14.50.05:690][585]LogShaderCompilers: Display: Tracking 323 distinct input hashes that result in 115 distinct outputs (35.60%)
+[2023.04.20-14.50.05:691][585]LogShaderCompilers: Display: RAM used: 1.81 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.44%
+[2023.04.20-14.50.05:691][585]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.20-14.50.05:691][585]LogShaderCompilers: Display: Shaders Compiled: 75
+[2023.04.20-14.50.05:691][585]LogShaderCompilers: Display: Jobs assigned 78, completed 75 (96.15%)
+[2023.04.20-14.50.05:691][585]LogShaderCompilers: Display: Average time worker was idle: 488.70 s
+[2023.04.20-14.50.05:691][585]LogShaderCompilers: Display: Time job spent in pending queue: average 0.99 s, longest 5.30 s
+[2023.04.20-14.50.05:691][585]LogShaderCompilers: Display: Job execution time: average 1.50 s, max 4.95 s
+[2023.04.20-14.50.05:691][585]LogShaderCompilers: Display: Job life time (pending + execution): average 2.53 s, max 6.54
+[2023.04.20-14.50.05:691][585]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 38.73 s
+[2023.04.20-14.50.05:691][585]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display: Average processing rate: 1.94 jobs/sec
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display: Total thread time: 74.69 s
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display: Total thread preprocess time: 5.22 s
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display: Percentage time preprocessing: 6.98%
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display: Effective parallelization: 1.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 1.49 sec, max 1.84 sec, min 1.06 sec)
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 1.35 sec, max 1.59 sec, min 0.94 sec)
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 1.24 sec, max 1.27 sec, min 1.21 sec)
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.24 sec, max 1.25 sec, min 1.23 sec)
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 1.24 sec, max 1.45 sec, min 0.91 sec)
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.01% of total time (compiled    6 times, average 1.49 sec, max 1.84 sec, min 1.06 sec)
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.81% of total time (compiled    6 times, average 1.35 sec, max 1.59 sec, min 0.94 sec)
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.92% of total time (compiled    6 times, average 1.24 sec, max 1.45 sec, min 0.91 sec)
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.16% of total time (compiled    7 times, average 0.87 sec, max 1.02 sec, min 0.57 sec)
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 6.41% of total time (compiled    6 times, average 0.80 sec, max 0.93 sec, min 0.69 sec)
+[2023.04.20-14.50.05:692][585]LogShaderCompilers: Display: ================================================
+[2023.04.20-14.50.16:286][135]Cmd: TRANSACTION REDO
+[2023.04.20-14.50.16:286][135]LogEditorTransaction: Redo Clicking on Elements
+[2023.04.20-14.50.47:268][533]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (wall_and_floor) ...
+[2023.04.20-14.50.59:319][655]LogEditorFactories: Performing atomic reimport of [C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/Source/wall_and_floor/wall_and_floor.fbx]
+[2023.04.20-14.50.59:369][655]LogFbx: Loading FBX Scene from C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/Source/wall_and_floor/wall_and_floor.fbx
+[2023.04.20-14.50.59:502][655]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.20-14.50.59:677][655]LogFbx: Triangulating skeletal mesh polySurface4634
+[2023.04.20-14.50.59:817][655]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2023.04.20-14.50.59:991][655]LogSkeletalMesh: Section 0: Material=0, 2366 triangles
+[2023.04.20-14.50.59:991][655]LogSkeletalMesh: Section 1: Material=1, 840 triangles
+[2023.04.20-14.51.00:013][655]LogEditorFactories: -- imported successfully
+[2023.04.20-14.51.00:026][655]LogSkeletalMesh: Building Skeletal Mesh wall_and_floor...
+[2023.04.20-14.51.00:042][655]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (wall_and_floor) ...
+[2023.04.20-14.51.00:192][655]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor.wall_and_floor
+[2023.04.20-14.51.00:199][655]FBXImport: FBX File Loading: Found name clash, node 'polySurface423' was renamed to 'polySurface4231' 
+[2023.04.20-14.51.00:200][655]FBXImport: FBX File Loading: Found name clash, node 'polySurface392' was renamed to 'polySurface3922' 
+[2023.04.20-14.51.00:200][655]FBXImport: FBX File Loading: Found name clash, node 'polySurface508' was renamed to 'polySurface5083' 
+[2023.04.20-14.51.00:200][655]FBXImport: FBX File Loading: Found name clash, node 'polySurface463' was renamed to 'polySurface4634' 
+[2023.04.20-14.51.00:200][655]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.04.20-14.51.00:315][656]LogAutomationController: Ignoring very large delta of 10.33 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-14.51.03:721][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.04.20-14.51.03:727][770]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.157
+[2023.04.20-14.51.03:731][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor] ([1] browsable assets)...
+[2023.04.20-14.51.03:744][770]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor.wall_and_floor]
+[2023.04.20-14.51.03:744][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor]
+[2023.04.20-14.51.03:780][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_Auto3
+[2023.04.20-14.51.03:780][770]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_Auto3841D12C243D89648FA93D48E333AAA39.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/Autosaves/Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_Auto3.uasset'
+[2023.04.20-14.51.03:782][770]LogFileHelpers: Auto-saving content packages took 0.054
+[2023.04.20-14.52.29:135][157]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/Source/wall_and_floor/wall_and_floor_02.fbx)
+[2023.04.20-14.52.29:148][157]LogFbx: Loading FBX Scene from C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/Source/wall_and_floor/wall_and_floor_02.fbx
+[2023.04.20-14.52.29:289][157]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.20-14.52.33:929][157]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.20-14.52.34:202][157]LogFbx: Display: Triangulating static mesh WALL11
+[2023.04.20-14.52.34:380][157]LogStaticMesh: Display: Building static mesh wall_and_floor_02...
+[2023.04.20-14.52.34:490][157]LogStaticMesh: Built static mesh [0.12s] /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02.wall_and_floor_02
+[2023.04.20-14.52.34:540][157]LogStaticMesh: Warning: wall_and_floor_02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.04.20-14.52.34:540][157]LogStaticMesh: Warning: wall_and_floor_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.20-14.52.34:642][157]FBXImport: FBX File Loading: Found name clash, node 'polySurface423' was renamed to 'polySurface4231' 
+[2023.04.20-14.52.34:642][157]FBXImport: FBX File Loading: Found name clash, node 'polySurface392' was renamed to 'polySurface3922' 
+[2023.04.20-14.52.34:642][157]FBXImport: FBX File Loading: Found name clash, node 'polySurface508' was renamed to 'polySurface5083' 
+[2023.04.20-14.52.34:642][157]FBXImport: FBX File Loading: Found name clash, node 'polySurface594' was renamed to 'polySurface5944' 
+[2023.04.20-14.52.34:642][157]FBXImport: FBX File Loading: Found name clash, node 'polySurface685' was renamed to 'polySurface6855' 
+[2023.04.20-14.52.34:642][157]FBXImport: FBX File Loading: Found name clash, node 'polySurface768' was renamed to 'polySurface7686' 
+[2023.04.20-14.52.34:642][157]FBXImport: FBX File Loading: Found name clash, node 'polySurface762' was renamed to 'polySurface7627' 
+[2023.04.20-14.52.34:642][157]FBXImport: FBX File Loading: Found name clash, node 'WALL' was renamed to 'WALL8' 
+[2023.04.20-14.52.34:642][157]FBXImport: FBX File Loading: Found name clash, node 'polySurface780' was renamed to 'polySurface7809' 
+[2023.04.20-14.52.34:642][157]FBXImport: FBX File Loading: Found name clash, node 'polySurface770' was renamed to 'polySurface77010' 
+[2023.04.20-14.52.34:642][157]FBXImport: FBX File Loading: Found name clash, node 'WALL' was renamed to 'WALL11' 
+[2023.04.20-14.52.34:642][157]FBXImport: Warning: wall_and_floor_02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.04.20-14.52.34:643][157]FBXImport: Warning: wall_and_floor_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.04.20-14.52.40:143][157]LogMeshUtilities: Finished distance field build in 5.6s - 126x126x84 sparse distance field, 1.6Mb total, 0.0Mb always loaded, 69% occupied, 1310 triangles, wall_and_floor_02
+[2023.04.20-14.52.40:213][158]LogAutomationController: Ignoring very large delta of 13.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-14.52.42:886][246]LogSlate: Window 'Message Log' being destroyed
+[2023.04.20-14.52.42:904][246]LogSlate: Window 'Message Log' being destroyed
+[2023.04.20-14.52.48:406][437]LogMeshUtilities: Finished distance field build in 8.2s - 126x126x84 sparse distance field, 1.6Mb total, 0.0Mb always loaded, 69% occupied, 1310 triangles, wall_and_floor_02
+[2023.04.20-14.53.23:120][258]LogInterchangeEngine: [Pending] Importing
+[2023.04.20-14.53.23:120][258]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.04.20-14.53.23:120][258]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.04.20-14.53.23:120][258]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.04.20-14.53.23:121][258]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.04.20-14.53.23:121][258]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.04.20-14.53.23:121][258]LogInterchangeEngine: [Pending] Importing -  (7)
+[2023.04.20-14.53.23:121][258]LogInterchangeEngine: [Pending] Importing -  (8)
+[2023.04.20-14.53.23:121][258]LogInterchangeEngine: [Pending] Importing -  (9)
+[2023.04.20-14.53.23:144][259]LogAutomationController: Ignoring very large delta of 8.07 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-14.53.23:201][259]LogInterchangeEngine: [Pending] Importing -  (9)
+[2023.04.20-14.53.23:276][260]LogTexture: Display: Building textures: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_BaseColor.wall_and_floor_04_tile_01_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.04.20-14.53.23:389][260]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.04.20-14.53.23:389][260]LogInterchangeEngine: [Pending] Importing -  (8)
+[2023.04.20-14.53.23:389][260]LogInterchangeEngine: [Pending] Importing -  (8)
+[2023.04.20-14.53.23:389][260]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.04.20-14.53.23:389][260]LogInterchangeEngine: [Pending] Importing -  (7)
+[2023.04.20-14.53.23:389][260]LogInterchangeEngine: [Pending] Importing -  (7)
+[2023.04.20-14.53.23:389][260]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.04.20-14.53.23:389][260]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.04.20-14.53.23:390][260]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.04.20-14.53.23:435][261]LogTexture: Display: Building textures: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_Normal.wall_and_floor_04_tile_01_Normal (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.04.20-14.53.23:636][262]LogTexture: Display: Building textures: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_OcclusionRoughnessMetallic.wall_and_floor_04_tile_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.04.20-14.53.23:642][263]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.04.20-14.53.23:642][263]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.04.20-14.53.23:642][263]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.04.20-14.53.23:642][263]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.04.20-14.53.23:642][263]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.04.20-14.53.23:642][263]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.04.20-14.53.23:645][263]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.04.20-14.53.23:646][263]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.04.20-14.53.23:707][263]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.04.20-14.53.23:825][263]LogTexture: Display: Building textures: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_Normal.wall_and_floor_04_tile_02_Normal (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.04.20-14.53.23:884][263]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.04.20-14.53.23:884][263]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.04.20-14.53.23:923][264]LogInterchangeEngine: [Success] Import Done
+[2023.04.20-14.53.23:972][264]LogTexture: Display: Building textures: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_BaseColor.wall_and_floor_04_tile_02_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.04.20-14.53.23:972][264]LogInterchangeEngine: [Success] Import Done
+[2023.04.20-14.53.24:020][264]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.04.20-14.53.24:105][264]LogTexture: Display: Building textures: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_OcclusionRoughnessMetallic.wall_and_floor_04_tile_02_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.04.20-14.53.24:235][264]LogTexture: Display: Building textures: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_Normal.wall_and_floor_04_tile_01_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2023.04.20-14.53.24:411][265]LogTexture: Display: Building textures: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_BaseColor.wall_and_floor_04_walls_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.04.20-14.53.24:586][268]LogTexture: Display: Building textures: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_Normal.wall_and_floor_04_walls_Normal (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.04.20-14.53.24:771][275]LogTexture: Display: Building textures: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_OcclusionRoughnessMetallic.wall_and_floor_04_walls_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.04.20-14.53.24:803][275]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.04.20-14.53.24:951][276]LogTexture: Display: Building textures: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_Normal.wall_and_floor_04_tile_02_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2023.04.20-14.53.25:130][278]LogTexture: Display: Building textures: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_Normal.wall_and_floor_04_walls_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2023.04.20-14.53.45:469][965]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPerson/3D_Models/WallAndFloor/M_Walls.M_Walls
+[2023.04.20-14.53.45:538][965]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.20-14.53.47:136][965]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.20-14.53.47:136][965]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.53.47:136][965]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.53.47:136][965]MaterialEditorStats: Shader Count: 0
+[2023.04.20-14.53.47:162][965]LogViewport: Scene viewport resized to 345x425, mode Windowed.
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: ================================================
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: Total job queries 415, among them cache hits 82 (19.76%)
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: Tracking 330 distinct input hashes that result in 117 distinct outputs (35.45%)
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: RAM used: 1.86 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.45%
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: Shaders Compiled: 78
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: Jobs assigned 78, completed 78 (100.00%)
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: Average time worker was idle: 488.70 s
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: Time job spent in pending queue: average 0.99 s, longest 5.30 s
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: Job execution time: average 1.65 s, max 5.56 s
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: Job life time (pending + execution): average 2.64 s, max 6.54
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 39.35 s
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: Average processing rate: 1.98 jobs/sec
+[2023.04.20-14.53.47:431][966]LogShaderCompilers: Display: Total thread time: 79.17 s
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display: Total thread preprocess time: 5.84 s
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display: Percentage time preprocessing: 7.37%
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display: Effective parallelization: 2.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 1.52 sec, max 1.84 sec, min 1.06 sec)
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 1.36 sec, max 1.59 sec, min 0.94 sec)
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    7 times, average 1.25 sec, max 1.45 sec, min 0.91 sec)
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 1.24 sec, max 1.27 sec, min 1.21 sec)
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.24 sec, max 1.25 sec, min 1.23 sec)
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.41% of total time (compiled    7 times, average 1.52 sec, max 1.84 sec, min 1.06 sec)
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.06% of total time (compiled    7 times, average 1.36 sec, max 1.59 sec, min 0.94 sec)
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.07% of total time (compiled    7 times, average 1.25 sec, max 1.45 sec, min 0.91 sec)
+[2023.04.20-14.53.47:432][966]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.70% of total time (compiled    7 times, average 0.87 sec, max 1.02 sec, min 0.57 sec)
+[2023.04.20-14.53.47:433][966]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 6.04% of total time (compiled    6 times, average 0.80 sec, max 0.93 sec, min 0.69 sec)
+[2023.04.20-14.53.47:433][966]LogShaderCompilers: Display: ================================================
+[2023.04.20-14.53.47:504][967]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.53.47:505][967]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.53.47:505][967]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.20-14.53.47:505][967]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.53.47:505][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.53.47:505][967]MaterialEditorStats: Shader Count: 4
+[2023.04.20-14.53.55:966][265]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.20-14.53.55:966][265]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.53.55:966][265]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.53.55:966][265]MaterialEditorStats: Shader Count: 0
+[2023.04.20-14.53.56:138][266]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.53.56:138][266]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.53.56:138][266]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.20-14.53.56:138][266]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.53.56:138][266]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.53.56:138][266]MaterialEditorStats: Shader Count: 4
+[2023.04.20-14.54.01:560][454]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.20-14.54.01:560][454]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.54.01:560][454]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.54.01:561][454]MaterialEditorStats: Shader Count: 0
+[2023.04.20-14.54.01:736][455]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.54.01:737][455]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.54.01:737][455]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.20-14.54.01:737][455]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.54.01:737][455]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.54.01:737][455]MaterialEditorStats: Shader Count: 4
+[2023.04.20-14.54.06:822][645]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.20-14.54.06:822][645]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.54.06:822][645]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.54.06:822][645]MaterialEditorStats: Shader Count: 0
+[2023.04.20-14.54.06:992][646]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.54.06:992][646]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.54.06:992][646]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.20-14.54.06:992][646]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.54.06:992][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.54.06:992][646]MaterialEditorStats: Shader Count: 4
+[2023.04.20-14.54.09:018][715]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.20-14.54.09:018][715]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.54.09:018][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.54.09:018][715]MaterialEditorStats: Shader Count: 0
+[2023.04.20-14.54.11:466][781]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.54.11:466][781]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.54.11:466][781]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.20-14.54.11:466][781]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.54.11:466][781]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.54.11:466][781]MaterialEditorStats: Shader Count: 4
+[2023.04.20-14.54.13:147][828]LogMaterialEditor: Applying material M_Walls
+[2023.04.20-14.54.19:443][828]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2023.04.20-14.54.20:766][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.04.20-14.54.20:825][829]LogAutomationController: Ignoring very large delta of 7.68 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-14.54.21:397][841]LogMaterialEditor: Saving and Compiling material M_Walls
+[2023.04.20-14.54.21:406][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.20-14.54.23:658][841]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.20-14.54.29:288][841]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004069s (5.633284s overbudget)
+[2023.04.20-14.54.29:378][841]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/M_Walls
+[2023.04.20-14.54.29:379][841]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/M_WallsFEDA39514C73F739CBF8D0BFD3FA6CD1.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/M_Walls.uasset'
+[2023.04.20-14.54.29:400][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.99 sec (total: 46.5 sec)
+[2023.04.20-14.54.29:416][841]AssetCheck: New page: Asset Save: M_Walls
+[2023.04.20-14.54.29:416][841]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/3D_Models/WallAndFloor/M_Walls.M_Walls
+[2023.04.20-14.54.29:423][841]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.54.29:424][841]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.54.29:424][841]MaterialEditorStats: MaxSampler: 294 instructions
+[2023.04.20-14.54.29:424][841]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.04.20-14.54.29:424][841]MaterialEditorStats: Texture samplers: 6/16
+[2023.04.20-14.54.29:424][841]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.54.29:424][841]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.54.29:424][841]MaterialEditorStats: Shader Count: 32
+[2023.04.20-14.54.29:446][842]LogAutomationController: Ignoring very large delta of 8.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-14.54.32:979][883]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-14.54.32:987][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-14.54.33:065][883]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-14.54.33:065][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-14.54.34:129][884]LogAutomationController: Ignoring very large delta of 3.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-14.54.37:844][  3]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-14.54.37:844][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-14.54.39:822][ 38]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.20-14.54.39:823][ 38]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-14.54.39:823][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-14.54.41:683][ 72]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.04.20-14.54.41:683][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.20-14.54.54:695][607]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPerson/3D_Models/WallAndFloor/M_Floor.M_Floor
+[2023.04.20-14.54.54:703][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.20-14.54.54:968][607]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.20-14.54.54:968][607]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.54.54:968][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.54.54:968][607]MaterialEditorStats: Shader Count: 0
+[2023.04.20-14.54.54:984][607]LogViewport: Scene viewport resized to 345x425, mode Windowed.
+[2023.04.20-14.54.57:038][657]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.20-14.54.57:038][657]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.54.57:038][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.54.57:038][657]MaterialEditorStats: Shader Count: 1
+[2023.04.20-14.54.57:618][672]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.54.57:618][672]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.20-14.54.57:618][672]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.54.57:618][672]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.54.57:618][672]MaterialEditorStats: Shader Count: 3
+[2023.04.20-14.54.57:711][674]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.54.57:711][674]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.54.57:711][674]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.20-14.54.57:711][674]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.54.57:712][674]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.54.57:712][674]MaterialEditorStats: Shader Count: 4
+[2023.04.20-14.55.19:682][483]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.20-14.55.19:682][483]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.55.19:682][483]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.55.19:682][483]MaterialEditorStats: Shader Count: 0
+[2023.04.20-14.55.19:859][484]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.55.19:859][484]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.55.19:859][484]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.20-14.55.19:859][484]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.55.19:859][484]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.55.19:859][484]MaterialEditorStats: Shader Count: 4
+[2023.04.20-14.55.26:333][729]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.20-14.55.26:333][729]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.55.26:333][729]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.55.26:333][729]MaterialEditorStats: Shader Count: 0
+[2023.04.20-14.55.26:510][730]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.55.26:510][730]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.55.26:510][730]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.20-14.55.26:510][730]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.55.26:510][730]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.55.26:510][730]MaterialEditorStats: Shader Count: 4
+[2023.04.20-14.55.32:760][971]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.20-14.55.32:760][971]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.55.32:760][971]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.55.32:760][971]MaterialEditorStats: Shader Count: 0
+[2023.04.20-14.55.32:917][972]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.55.32:917][972]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.55.32:917][972]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.20-14.55.32:917][972]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.55.32:917][972]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.55.32:917][972]MaterialEditorStats: Shader Count: 4
+[2023.04.20-14.55.43:531][359]LogMaterialEditor: Applying material M_Floor
+[2023.04.20-14.55.44:685][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.04.20-14.55.46:324][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.04.20-14.55.46:386][360]LogAutomationController: Ignoring very large delta of 2.85 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-14.55.47:187][387]LogMaterialEditor: Saving and Compiling material M_Floor
+[2023.04.20-14.55.47:190][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.20-14.55.49:429][387]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.20-14.55.55:758][387]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002223s (6.331662s overbudget)
+[2023.04.20-14.55.55:860][387]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/M_Floor
+[2023.04.20-14.55.55:861][387]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/M_FloorEE50E5114C93D8D86BD18C961C0BD2DF.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/M_Floor.uasset'
+[2023.04.20-14.55.55:876][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.68 sec (total: 55.2 sec)
+[2023.04.20-14.55.55:887][387]AssetCheck: New page: Asset Save: M_Floor
+[2023.04.20-14.55.55:887][387]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/3D_Models/WallAndFloor/M_Floor.M_Floor
+[2023.04.20-14.55.55:889][387]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.55.55:889][387]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.55.55:889][387]MaterialEditorStats: MaxSampler: 294 instructions
+[2023.04.20-14.55.55:889][387]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.04.20-14.55.55:889][387]MaterialEditorStats: Texture samplers: 6/16
+[2023.04.20-14.55.55:889][387]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.55.55:889][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.55.55:889][387]MaterialEditorStats: Shader Count: 32
+[2023.04.20-14.55.55:905][388]LogAutomationController: Ignoring very large delta of 8.72 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-14.56.06:909][805]LogContentBrowser: Deferred new asset file creation: wall_and_floor_04_tile_02_BaseColor_Mat
+[2023.04.20-14.56.06:928][805]LogContentBrowser: Creating deferred item: wall_and_floor_04_tile_02_BaseColor_Mat
+[2023.04.20-14.56.06:949][806]LogContentBrowser: Renaming the item being created (Deferred Item: wall_and_floor_04_tile_02_BaseColor_Mat).
+[2023.04.20-14.56.11:262][ 11]LogContentBrowser: Attempting asset rename: wall_and_floor_04_tile_02_BaseColor_Mat -> M_Floor2
+[2023.04.20-14.56.11:302][ 11]LogContentBrowser: End creating deferred item wall_and_floor_04_tile_02_BaseColor_Mat
+[2023.04.20-14.56.13:261][ 90]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPerson/3D_Models/WallAndFloor/M_Floor2.M_Floor2
+[2023.04.20-14.56.13:267][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.20-14.56.13:506][ 90]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.20-14.56.13:506][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.20-14.56.13:506][ 90]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.56.13:506][ 90]MaterialEditorStats: Shader Count: 0
+[2023.04.20-14.56.13:521][ 90]LogViewport: Scene viewport resized to 345x425, mode Windowed.
+[2023.04.20-14.56.13:780][ 92]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.04.20-14.56.13:780][ 92]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.56.13:780][ 92]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.20-14.56.13:780][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.20-14.56.13:780][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.56.13:780][ 92]MaterialEditorStats: Shader Count: 4
+[2023.04.20-14.56.18:518][262]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Floor2 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.20-14.56.18:534][262]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2023.04.20-14.56.23:798][450]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Floor2 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.20-14.56.23:810][450]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Floor2 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.20-14.56.31:896][777]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Floor2 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.20-14.56.31:907][777]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Floor2 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.20-14.56.37:803][997]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.20-14.56.37:803][997]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.56.37:803][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.56.37:803][997]MaterialEditorStats: Shader Count: 0
+[2023.04.20-14.56.39:978][ 54]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.20-14.56.39:978][ 54]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.56.39:978][ 54]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.56.39:978][ 54]MaterialEditorStats: Shader Count: 1
+[2023.04.20-14.56.40:653][ 68]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.20-14.56.40:653][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.56.40:653][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.56.40:653][ 68]MaterialEditorStats: Shader Count: 0
+[2023.04.20-14.56.46:174][195]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.20-14.56.46:174][195]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.56.46:174][195]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.56.46:174][195]MaterialEditorStats: Shader Count: 1
+[2023.04.20-14.56.47:285][226]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.56.47:285][226]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.56.47:285][226]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.20-14.56.47:285][226]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.56.47:285][226]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.56.47:285][226]MaterialEditorStats: Shader Count: 4
+[2023.04.20-14.56.48:299][258]LogMaterialEditor: Applying material M_Floor2
+[2023.04.20-14.56.49:155][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: ================================================
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Total job queries 601, among them cache hits 168 (27.95%)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Tracking 428 distinct input hashes that result in 133 distinct outputs (31.07%)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: RAM used: 2.58 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.63%
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Shaders Compiled: 162
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Jobs assigned 164, completed 162 (98.78%)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Average time worker was idle: 235.30 s
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Time job spent in pending queue: average 1.50 s, longest 7.40 s
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Job execution time: average 1.55 s, max 5.56 s
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Job life time (pending + execution): average 3.07 s, max 8.32
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 74.43 s
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Jobs were issued in 164 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Average processing rate: 2.18 jobs/sec
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Total thread time: 177.50 s
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Total thread preprocess time: 11.54 s
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Percentage time preprocessing: 6.50%
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Effective parallelization: 2.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 1.52 sec, max 1.84 sec, min 1.06 sec)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 1.39 sec, max 1.67 sec, min 0.94 sec)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   16 times, average 1.26 sec, max 1.48 sec, min 0.88 sec)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    6 times, average 1.22 sec, max 1.28 sec, min 1.16 sec)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 1.22 sec, max 1.27 sec, min 1.15 sec)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.73% of total time (compiled   16 times, average 1.52 sec, max 1.84 sec, min 1.06 sec)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.53% of total time (compiled   16 times, average 1.39 sec, max 1.67 sec, min 0.94 sec)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.40% of total time (compiled   16 times, average 1.26 sec, max 1.48 sec, min 0.88 sec)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.93% of total time (compiled   16 times, average 0.88 sec, max 1.03 sec, min 0.57 sec)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 4.13% of total time (compiled    6 times, average 1.22 sec, max 1.28 sec, min 1.16 sec)
+[2023.04.20-14.56.49:426][258]LogShaderCompilers: Display: ================================================
+[2023.04.20-14.56.50:433][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.04.20-14.56.50:458][258]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.20-14.56.50:459][258]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.56.50:459][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.56.50:459][258]MaterialEditorStats: Shader Count: 2
+[2023.04.20-14.56.50:476][259]LogAutomationController: Ignoring very large delta of 2.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-14.56.50:575][260]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.56.50:575][260]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.56.50:575][260]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.20-14.56.50:575][260]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.56.50:575][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.56.50:575][260]MaterialEditorStats: Shader Count: 6
+[2023.04.20-14.56.50:955][273]LogMaterialEditor: Saving and Compiling material M_Floor2
+[2023.04.20-14.56.50:958][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.20-14.56.53:140][273]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.20-14.56.54:676][273]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002106s (1.539243s overbudget)
+[2023.04.20-14.56.54:765][273]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/M_Floor2
+[2023.04.20-14.56.54:766][273]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/M_Floor2F5FCC1D646A626A0A466C7B5D61CD030.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/M_Floor2.uasset'
+[2023.04.20-14.56.54:785][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.82 sec (total: 59.0 sec)
+[2023.04.20-14.56.54:797][273]AssetCheck: New page: Asset Save: M_Floor2
+[2023.04.20-14.56.54:797][273]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/3D_Models/WallAndFloor/M_Floor2.M_Floor2
+[2023.04.20-14.56.54:799][273]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.04.20-14.56.54:799][273]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.20-14.56.54:799][273]MaterialEditorStats: MaxSampler: 294 instructions
+[2023.04.20-14.56.54:799][273]MaterialEditorStats: Texture samplers: 6/16
+[2023.04.20-14.56.54:799][273]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.04.20-14.56.54:799][273]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.20-14.56.54:799][273]MaterialEditorStats: Shader Count: 16
+[2023.04.20-14.56.54:814][274]LogAutomationController: Ignoring very large delta of 3.86 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-14.56.59:901][476]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02.wall_and_floor_02
+[2023.04.20-14.56.59:996][476]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.20-14.57.01:110][476]LogViewport: Scene viewport resized to 1296x869, mode Windowed.
+[2023.04.20-14.57.03:158][527]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.20-14.57.03:183][528]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.20-14.57.12:136][879]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.20-14.57.12:160][880]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.20-14.57.18:824][162]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.20-14.57.18:846][163]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.20-14.57.27:016][437]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.20-14.57.27:061][438]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.20-14.57.29:570][499]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.20-14.57.30:263][526]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02) ...
+[2023.04.20-14.57.39:569][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.20-14.57.39:766][785]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02
+[2023.04.20-14.57.39:766][785]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_028AA76713421E03F45022FEA68EE8B6E3.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02.uasset'
+[2023.04.20-14.57.39:788][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 59.2 sec)
+[2023.04.20-14.57.39:804][785]AssetCheck: New page: Asset Save: wall_and_floor_02
+[2023.04.20-14.57.39:804][785]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02.wall_and_floor_02
+[2023.04.20-14.57.54:601][372]LogAutomationController: Ignoring very large delta of 2.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-15.00.47:296][718]LogViewport: Scene viewport resized to 562x293, mode Windowed.
+[2023.04.20-15.00.57:405][ 72]LogEditorViewport: Clicking Background
+[2023.04.20-15.01.00:807][244]LogViewport: Scene viewport resized to 562x293, mode Windowed.
+[2023.04.20-15.01.08:319][510]LogEditorViewport: Clicking Background
+[2023.04.20-15.01.14:433][807]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2023.04.20-15.01.15:865][807]LogSlate: Window 'Save Content' being destroyed
+[2023.04.20-15.01.15:896][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.20-15.01.16:050][807]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MV/Q5PC7A0SVW0XHGMDZWEVK6
+[2023.04.20-15.01.16:053][807]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/Q5PC7A0SVW0XHGMDZWEVK68EE20EEA4192A6CAED99F6A171ED1486.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MV/Q5PC7A0SVW0XHGMDZWEVK6.uasset'
+[2023.04.20-15.01.16:087][807]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor
+[2023.04.20-15.01.16:088][807]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor4BBAB2F34020C1B7ECF8739F13AE9F70.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor.uasset'
+[2023.04.20-15.01.16:218][807]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_BaseColor
+[2023.04.20-15.01.16:218][807]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_04_tile_01_BaseCoE93358E642455616148C7ABDCF8619E3.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_BaseColor.uasset'
+[2023.04.20-15.01.16:360][807]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_Normal
+[2023.04.20-15.01.16:360][807]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_04_tile_01_Normal78065E204F29907770724D926B1B93E8.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_Normal.uasset'
+[2023.04.20-15.01.16:509][807]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_OcclusionRoughnessMetallic
+[2023.04.20-15.01.16:509][807]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_04_tile_01_Occlus7D38C4104A4E1759056E6F8BE023246E.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_OcclusionRoughnessMetallic.uasset'
+[2023.04.20-15.01.16:632][807]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_BaseColor
+[2023.04.20-15.01.16:633][807]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_04_tile_02_BaseCoC0E2AA3B4E22C5261C560FB1A4A259EF.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_BaseColor.uasset'
+[2023.04.20-15.01.16:754][807]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_Normal
+[2023.04.20-15.01.16:754][807]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_04_tile_02_Normal3287687046CD48A3253C1AA7BDB26554.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_Normal.uasset'
+[2023.04.20-15.01.16:876][807]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_OcclusionRoughnessMetallic
+[2023.04.20-15.01.16:876][807]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_04_tile_02_OcclusDC7957BA47D645BE1CBCFBA252204400.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_OcclusionRoughnessMetallic.uasset'
+[2023.04.20-15.01.17:000][807]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_BaseColor
+[2023.04.20-15.01.17:000][807]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_04_walls_BaseColoFBF29C5F497FFEC26178C9837036DF36.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_BaseColor.uasset'
+[2023.04.20-15.01.17:124][807]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_Normal
+[2023.04.20-15.01.17:124][807]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_04_walls_Normal7C7E7C904A08C0573F49DEA79236F056.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_Normal.uasset'
+[2023.04.20-15.01.17:265][807]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_OcclusionRoughnessMetallic
+[2023.04.20-15.01.17:265][807]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_04_walls_Occlusio5DD69A0A4ABE09D291C3598BB36C94D9.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_OcclusionRoughnessMetallic.uasset'
+[2023.04.20-15.01.17:289][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.39 sec (total: 1:00 min)
+[2023.04.20-15.01.17:305][807]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.20-15.01.17:305][807]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF6D7A01_1879580179
+[2023.04.20-15.01.17:305][807]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_OcclusionRoughnessMetallic.wall_and_floor_04_walls_OcclusionRoughnessMetallic
+[2023.04.20-15.01.17:305][807]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_Normal.wall_and_floor_04_walls_Normal
+[2023.04.20-15.01.17:306][807]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_walls_BaseColor.wall_and_floor_04_walls_BaseColor
+[2023.04.20-15.01.17:306][807]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_OcclusionRoughnessMetallic.wall_and_floor_04_tile_02_OcclusionRoughnessMetallic
+[2023.04.20-15.01.17:306][807]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_BaseColor.wall_and_floor_04_tile_02_BaseColor
+[2023.04.20-15.01.17:306][807]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_02_Normal.wall_and_floor_04_tile_02_Normal
+[2023.04.20-15.01.17:306][807]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_OcclusionRoughnessMetallic.wall_and_floor_04_tile_01_OcclusionRoughnessMetallic
+[2023.04.20-15.01.17:306][807]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_Normal.wall_and_floor_04_tile_01_Normal
+[2023.04.20-15.01.17:306][807]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_04_tile_01_BaseColor.wall_and_floor_04_tile_01_BaseColor
+[2023.04.20-15.01.17:306][807]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor.wall_and_floor
+[2023.04.20-15.01.17:329][808]LogAutomationController: Ignoring very large delta of 3.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-15.01.43:991][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.04.20-15.01.46:262][288]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.20-15.01.46:444][288]LogUObjectGlobals: Force Deleting 10 Package(s):
+	Asset Name: /Game/ThirdPerson/3D_Models/WallAndFloor/BuildingStaticMesh.BuildingStaticMesh
+	Asset Type: StaticMesh
+	Asset Name: /Game/ThirdPerson/3D_Models/WallAndFloor/PT_TILES_BaseColor.PT_TILES_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/ThirdPerson/3D_Models/WallAndFloor/PT_TILES_Normal.PT_TILES_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/ThirdPerson/3D_Models/WallAndFloor/PT_TILES_OcclusionRoughnessMetallic.PT_TILES_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+	Asset Name: /Game/ThirdPerson/3D_Models/WallAndFloor/PT_WALLS_BaseColor.PT_WALLS_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/ThirdPerson/3D_Models/WallAndFloor/PT_WALLS_Normal.PT_WALLS_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/ThirdPerson/3D_Models/WallAndFloor/PT_WALLS_OcclusionRoughnessMetallic.PT_WALLS_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+	Asset Name: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor.wall_and_floor
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_PhysicsAsset.wall_and_floor_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_Skeleton.wall_and_floor_Skeleton
+	Asset Type: Skeleton
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: ================================================
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Total job queries 615, among them cache hits 172 (27.97%)
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Tracking 440 distinct input hashes that result in 134 distinct outputs (30.45%)
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: RAM used: 2.68 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.65%
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Shaders Compiled: 174
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Jobs assigned 174, completed 174 (100.00%)
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Average time worker was idle: 221.53 s
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Time job spent in pending queue: average 1.47 s, longest 7.40 s
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Job execution time: average 1.53 s, max 5.56 s
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Job life time (pending + execution): average 3.00 s, max 8.32
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 78.92 s
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Jobs were issued in 174 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Average processing rate: 2.20 jobs/sec
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Total thread time: 190.03 s
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Total thread preprocess time: 12.27 s
+[2023.04.20-15.01.48:377][288]LogShaderCompilers: Display: Percentage time preprocessing: 6.46%
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display: Effective parallelization: 2.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 1.52 sec, max 1.84 sec, min 1.06 sec)
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 1.39 sec, max 1.67 sec, min 0.94 sec)
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   16 times, average 1.26 sec, max 1.48 sec, min 0.88 sec)
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 1.22 sec, max 1.27 sec, min 1.15 sec)
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 1.22 sec, max 1.29 sec, min 1.16 sec)
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.83% of total time (compiled   16 times, average 1.52 sec, max 1.84 sec, min 1.06 sec)
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.71% of total time (compiled   16 times, average 1.39 sec, max 1.67 sec, min 0.94 sec)
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.65% of total time (compiled   16 times, average 1.26 sec, max 1.48 sec, min 0.88 sec)
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.41% of total time (compiled   16 times, average 0.88 sec, max 1.03 sec, min 0.57 sec)
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.51% of total time (compiled    7 times, average 1.22 sec, max 1.27 sec, min 1.15 sec)
+[2023.04.20-15.01.48:378][288]LogShaderCompilers: Display: ================================================
+[2023.04.20-15.01.48:529][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2023.04.20-15.01.48:622][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.04.20-15.01.48:706][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.04.20-15.01.48:783][289]LogAutomationController: Ignoring very large delta of 5.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.20-15.01.53:241][501]LogContentBrowser: Attempting asset rename: wall_and_floor_02 -> wall_and_floor
+[2023.04.20-15.01.53:312][501]LogMetaData: Removing '/Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor.wall_and_floor' ref from Metadata '/Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02.PackageMetaData'
+[2023.04.20-15.01.53:319][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.20-15.01.53:445][501]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor
+[2023.04.20-15.01.53:445][501]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor1C450F62471434676FC1D7B16F3D1330.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor.uasset'
+[2023.04.20-15.01.53:449][501]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02
+[2023.04.20-15.01.53:450][501]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_0252A5A16644C6C9E46DA665AC45AAC57B.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02.uasset'
+[2023.04.20-15.01.53:469][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1:00 min)
+[2023.04.20-15.01.53:484][501]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.20-15.01.53:484][501]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02.wall_and_floor_02
+[2023.04.20-15.01.53:484][501]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor.wall_and_floor
+[2023.04.20-15.01.58:275][756]LogContentBrowser: Attempting asset rename: wall_and_floor -> Building
+[2023.04.20-15.01.58:310][756]LogMetaData: Removing '/Game/ThirdPerson/3D_Models/WallAndFloor/Building.Building' ref from Metadata '/Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor.PackageMetaData'
+[2023.04.20-15.01.58:311][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.20-15.01.58:443][756]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02
+[2023.04.20-15.01.58:444][756]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/wall_and_floor_0261D777734A14A6DCE8E95889761D107A.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02.uasset'
+[2023.04.20-15.01.58:456][756]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/WallAndFloor/Building
+[2023.04.20-15.01.58:456][756]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/Building00C4E7924FF4E704D077EDBF21D9C833.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/WallAndFloor/Building.uasset'
+[2023.04.20-15.01.58:475][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 1:00 min)
+[2023.04.20-15.01.58:600][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.04.20-15.01.58:689][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.04.20-15.01.58:786][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.04.20-15.01.58:803][756]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.20-15.01.58:803][756]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/3D_Models/WallAndFloor/wall_and_floor_02.wall_and_floor_02
+[2023.04.20-15.01.58:803][756]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/3D_Models/WallAndFloor/Building.Building
