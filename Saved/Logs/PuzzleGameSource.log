@@ -6286,3 +6286,13 @@ Script Stack (0 frames) :
 [2023.04.24-18.30.54:763][500]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFC26F01_1207824521
 [2023.04.24-18.30.54:763][500]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
 [2023.04.24-18.30.54:763][500]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_Wiring_C_UAID_54E1ADAC0BAFDD6C01_1827986103
+[2023.04.24-18.32.54:833][348]Cmd: TRANSACTION UNDO
+[2023.04.24-18.32.54:834][348]LogEditorTransaction: Undo Move Elements
+[2023.04.24-18.32.56:299][406]Cmd: TRANSACTION UNDO
+[2023.04.24-18.32.56:299][406]LogEditorTransaction: Undo Move Elements
+[2023.04.24-18.33.02:434][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-18.33.02:549][769]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L7/265T0RWXMI41VLEHL4XIEV
+[2023.04.24-18.33.02:550][769]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/265T0RWXMI41VLEHL4XIEVA564EE354A72DDA1396069B7695E7896.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L7/265T0RWXMI41VLEHL4XIEV.uasset'
+[2023.04.24-18.33.02:570][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 1:21 min)
+[2023.04.24-18.33.02:595][769]AssetCheck: New page: Asset Save: INT_TextBased_C_UAID_107B44F15E866E7301_1580656959
+[2023.04.24-18.33.02:595][769]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_107B44F15E866E7301_1580656959
