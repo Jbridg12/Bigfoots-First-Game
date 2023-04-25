@@ -4555,3 +4555,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.25-23.13.26:669][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 17.8 sec)
 [2023.04.25-23.13.26:687][502]AssetCheck: New page: Asset Save: INT_Wiring
 [2023.04.25-23.13.26:687][502]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring
+[2023.04.25-23.13.50:590][857]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2023.04.25-23.13.51:634][857]LogSlate: Window 'Save Content' being destroyed
+[2023.04.25-23.13.51:656][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-23.13.51:770][857]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FE/0ZDUNQYYL7BKX8I00I3Q2W
+[2023.04.25-23.13.51:771][857]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/0ZDUNQYYL7BKX8I00I3Q2W5D02FEA143DE21AF6BC0159B06099545.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FE/0ZDUNQYYL7BKX8I00I3Q2W.uasset'
+[2023.04.25-23.13.51:777][857]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/7UI4BADUMZBVIHEV67VOIU
+[2023.04.25-23.13.51:778][857]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/7UI4BADUMZBVIHEV67VOIU92E106C24E9A82B7CB96078CEE8A0BE8.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/7UI4BADUMZBVIHEV67VOIU.uasset'
+[2023.04.25-23.13.51:802][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 18.0 sec)
+[2023.04.25-23.13.51:822][857]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-23.13.51:822][857]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_Wiring_C_UAID_54E1ADAC0BAFDD6C01_1827986103
+[2023.04.25-23.13.51:822][857]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFFF7A01_1688161872
