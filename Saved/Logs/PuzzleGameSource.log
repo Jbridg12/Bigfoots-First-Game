@@ -4496,3 +4496,20 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.25-23.03.01:612][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 16.3 sec)
 [2023.04.25-23.03.01:633][492]AssetCheck: New page: Asset Save: INT_Keypad_C_UAID_54E1ADAC0BAF5C6B01_1221749343
 [2023.04.25-23.03.01:633][492]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/Keypad/INT_Keypad.INT_Keypad_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_Keypad_C_UAID_54E1ADAC0BAF5C6B01_1221749343
+[2023.04.25-23.04.35:230][837]LogDerivedDataCache: C:/Users/joshu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.729 and deleted 0 files with total size 0 MiB. Scanned 5356 files in 5296 folders with total size 136 MiB.
+[2023.04.25-23.04.48:110][381]BlueprintLog: New page: Compile BP_GameManager
+[2023.04.25-23.04.50:785][381]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2023.04.25-23.06.04:064][676]LogUObjectHash: Compacting FUObjectHashTables data took  18.50ms
+[2023.04.25-23.06.05:357][676]LogSlate: Window 'Save Content' being destroyed
+[2023.04.25-23.06.05:379][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-23.06.05:637][676]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameManager
+[2023.04.25-23.06.05:638][676]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/BP_GameManager62DFB2E64439BCA59ABFFFB461B746B7.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/BP_GameManager.uasset'
+[2023.04.25-23.06.05:643][676]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0
+[2023.04.25-23.06.05:644][676]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/DVOW806YU9LXU0GQ6KWIE0B1159B054863B5F12590C482F10F02A9.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0.uasset'
+[2023.04.25-23.06.05:649][676]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/7UI4BADUMZBVIHEV67VOIU
+[2023.04.25-23.06.05:650][676]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/7UI4BADUMZBVIHEV67VOIUDD0B79F1416026827B5589B69A5AB479.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/7UI4BADUMZBVIHEV67VOIU.uasset'
+[2023.04.25-23.06.05:671][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 293 ms (total: 16.6 sec)
+[2023.04.25-23.06.05:690][676]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-23.06.05:690][676]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager
+[2023.04.25-23.06.05:691][676]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
+[2023.04.25-23.06.05:691][676]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_Wiring_C_UAID_54E1ADAC0BAFDD6C01_1827986103
