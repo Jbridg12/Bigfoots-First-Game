@@ -4540,3 +4540,18 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.25-23.09.04:495][486]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.25-23.09.04:495][486]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
 [2023.04.25-23.09.04:495][486]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_Wiring_C_UAID_54E1ADAC0BAFDD6C01_1827986103
+[2023.04.25-23.12.42:649][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-23.12.42:906][884]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring
+[2023.04.25-23.12.42:907][884]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/INT_WiringF220F3F74F427B4DCA5192B69CA7BB94.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.uasset'
+[2023.04.25-23.12.42:927][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 278 ms (total: 17.6 sec)
+[2023.04.25-23.12.42:947][884]AssetCheck: New page: Asset Save: INT_Wiring
+[2023.04.25-23.12.42:947][884]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring
+[2023.04.25-23.13.16:728][227]LogEditorTransaction: Undo Create Pin Link
+[2023.04.25-23.13.24:869][497]BlueprintLog: New page: Compile INT_Wiring
+[2023.04.25-23.13.25:274][497]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2023.04.25-23.13.26:415][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-23.13.26:645][502]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring
+[2023.04.25-23.13.26:647][502]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/INT_Wiring164914F148AD9D602AF6B5BF3C43DBCB.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.uasset'
+[2023.04.25-23.13.26:669][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 17.8 sec)
+[2023.04.25-23.13.26:687][502]AssetCheck: New page: Asset Save: INT_Wiring
+[2023.04.25-23.13.26:687][502]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring
