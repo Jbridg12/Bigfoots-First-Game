@@ -4513,3 +4513,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.25-23.06.05:690][676]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager
 [2023.04.25-23.06.05:691][676]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
 [2023.04.25-23.06.05:691][676]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_Wiring_C_UAID_54E1ADAC0BAFDD6C01_1827986103
+[2023.04.25-23.07.35:055][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-23.07.35:302][708]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameManager
+[2023.04.25-23.07.35:303][708]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/BP_GameManager2C789169472A8BD1478575A3957751A3.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/BP_GameManager.uasset'
+[2023.04.25-23.07.35:324][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 268 ms (total: 16.9 sec)
+[2023.04.25-23.07.35:343][708]AssetCheck: New page: Asset Save: BP_GameManager
+[2023.04.25-23.07.35:343][708]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager
+[2023.04.25-23.07.35:523][717]BlueprintLog: New page: Compile BP_GameManager
+[2023.04.25-23.07.35:850][717]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2023.04.25-23.08.39:863][310]BlueprintLog: New page: Compile BP_GameManager
+[2023.04.25-23.08.40:193][310]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2023.04.25-23.08.40:979][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-23.08.41:203][324]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameManager
+[2023.04.25-23.08.41:204][324]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/BP_GameManagerB2EECC944DD7881A23537F89011097AE.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/BP_GameManager.uasset'
+[2023.04.25-23.08.41:229][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 250 ms (total: 17.1 sec)
+[2023.04.25-23.08.41:249][324]AssetCheck: New page: Asset Save: BP_GameManager
+[2023.04.25-23.08.41:249][324]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager
