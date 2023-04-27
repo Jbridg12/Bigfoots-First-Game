@@ -3465,3 +3465,26 @@ Script Stack (0 frames) :
 [2023.04.27-19.28.09:067][549]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_107B44F15E866D7301_1948276786
 [2023.04.27-19.28.09:067][549]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFFF7A01_1286455871
 [2023.04.27-19.28.09:067][549]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF5C6901_2034175233
+[2023.04.27-19.29.28:639][379]LogSlate: Took 0.021672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.04.27-19.29.37:552][718]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-19.29.37:552][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-19.29.37:578][718]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-19.29.37:578][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-19.29.38:304][735]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-19.29.38:304][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-19.29.38:321][735]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-19.29.38:321][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-19.29.39:532][765]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-19.29.39:533][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-19.29.39:551][765]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-19.29.39:551][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-19.29.40:836][799]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-19.29.40:836][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-19.36.05:105][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.04.27-19.36.06:230][ 14]LogSlate: Window 'Save Content' being destroyed
+[2023.04.27-19.36.06:250][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-19.36.06:367][ 14]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/7UI4BADUMZBVIHEV67VOIU
+[2023.04.27-19.36.06:368][ 14]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/7UI4BADUMZBVIHEV67VOIUB22C5E59433A1C5B1929549AC14D00C3.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/7UI4BADUMZBVIHEV67VOIU.uasset'
+[2023.04.27-19.36.06:385][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 4.76 sec)
+[2023.04.27-19.36.06:398][ 14]AssetCheck: New page: Asset Save: INT_Wiring_C_UAID_54E1ADAC0BAFDD6C01_1827986103
+[2023.04.27-19.36.06:398][ 14]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_Wiring_C_UAID_54E1ADAC0BAFDD6C01_1827986103
