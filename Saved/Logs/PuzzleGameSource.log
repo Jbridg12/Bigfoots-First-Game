@@ -2389,3 +2389,298 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.04.27-23.21.00:706][865]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFB57A01_1783697848
 [2023.04.27-23.21.00:706][865]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF5C7C01_1320427295
 [2023.04.27-23.21.00:706][865]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFC16F01_1888373344
+[2023.04.27-23.21.26:050][289]LogViewport: Scene viewport resized to 1386x573, mode Windowed.
+[2023.04.27-23.21.26:108][291]LogViewport: Scene viewport resized to 1386x519, mode Windowed.
+[2023.04.27-23.21.26:176][293]LogViewport: Scene viewport resized to 1386x402, mode Windowed.
+[2023.04.27-23.21.26:247][295]LogViewport: Scene viewport resized to 1386x267, mode Windowed.
+[2023.04.27-23.21.26:300][296]LogViewport: Scene viewport resized to 1386x207, mode Windowed.
+[2023.04.27-23.21.26:371][298]LogViewport: Scene viewport resized to 1386x183, mode Windowed.
+[2023.04.27-23.21.26:431][300]LogViewport: Scene viewport resized to 1386x162, mode Windowed.
+[2023.04.27-23.21.26:723][313]LogDerivedDataCache: C:/Users/joshu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.957 and deleted 0 files with total size 0 MiB. Scanned 6237 files in 6164 folders with total size 170 MiB.
+[2023.04.27-23.22.50:440][926]LogViewport: Scene viewport resized to 1386x172, mode Windowed.
+[2023.04.27-23.22.50:515][928]LogViewport: Scene viewport resized to 1386x243, mode Windowed.
+[2023.04.27-23.22.50:575][930]LogViewport: Scene viewport resized to 1386x323, mode Windowed.
+[2023.04.27-23.22.50:659][932]LogViewport: Scene viewport resized to 1386x397, mode Windowed.
+[2023.04.27-23.22.50:743][934]LogViewport: Scene viewport resized to 1386x455, mode Windowed.
+[2023.04.27-23.22.50:811][936]LogViewport: Scene viewport resized to 1386x486, mode Windowed.
+[2023.04.27-23.22.50:881][938]LogViewport: Scene viewport resized to 1386x503, mode Windowed.
+[2023.04.27-23.22.50:946][940]LogViewport: Scene viewport resized to 1386x512, mode Windowed.
+[2023.04.27-23.22.51:009][942]LogViewport: Scene viewport resized to 1386x517, mode Windowed.
+[2023.04.27-23.22.51:065][944]LogViewport: Scene viewport resized to 1386x530, mode Windowed.
+[2023.04.27-23.22.51:133][946]LogViewport: Scene viewport resized to 1386x541, mode Windowed.
+[2023.04.27-23.22.51:189][948]LogViewport: Scene viewport resized to 1386x550, mode Windowed.
+[2023.04.27-23.22.51:248][950]LogViewport: Scene viewport resized to 1386x563, mode Windowed.
+[2023.04.27-23.22.51:314][952]LogViewport: Scene viewport resized to 1386x576, mode Windowed.
+[2023.04.27-23.22.51:375][954]LogViewport: Scene viewport resized to 1386x582, mode Windowed.
+[2023.04.27-23.22.51:739][974]LogViewport: Scene viewport resized to 1386x572, mode Windowed.
+[2023.04.27-23.22.51:849][976]LogViewport: Scene viewport resized to 1386x470, mode Windowed.
+[2023.04.27-23.22.51:933][978]LogViewport: Scene viewport resized to 1386x411, mode Windowed.
+[2023.04.27-23.22.51:982][979]LogViewport: Scene viewport resized to 1386x398, mode Windowed.
+[2023.04.27-23.22.52:053][981]LogViewport: Scene viewport resized to 1386x380, mode Windowed.
+[2023.04.27-23.23.36:673][671]LogViewport: Scene viewport resized to 1386x390, mode Windowed.
+[2023.04.27-23.23.36:740][673]LogViewport: Scene viewport resized to 1386x427, mode Windowed.
+[2023.04.27-23.23.36:817][675]LogViewport: Scene viewport resized to 1386x484, mode Windowed.
+[2023.04.27-23.23.36:865][676]LogViewport: Scene viewport resized to 1386x531, mode Windowed.
+[2023.04.27-23.23.36:945][678]LogViewport: Scene viewport resized to 1386x590, mode Windowed.
+[2023.04.27-23.23.37:005][679]LogViewport: Scene viewport resized to 1386x624, mode Windowed.
+[2023.04.27-23.23.37:396][700]LogViewport: Scene viewport resized to 1386x645, mode Windowed.
+[2023.04.27-23.23.37:496][702]LogViewport: Scene viewport resized to 1386x689, mode Windowed.
+[2023.04.27-23.23.37:577][704]LogViewport: Scene viewport resized to 1386x712, mode Windowed.
+[2023.04.27-23.25.55:867][230]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.04.27-23.25.55:876][230]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P5/KRL45IO4QSAIZT7279WAWQ_Auto3
+[2023.04.27-23.25.55:877][230]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/KRL45IO4QSAIZT7279WAWQ_Auto38A55F8A04DBF1D6474595984C1CCB4F8.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P5/KRL45IO4QSAIZT7279WAWQ_Auto3.uasset'
+[2023.04.27-23.25.55:883][230]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/EN/M0RBQW92ZO9VBAQX1F356B_Auto3
+[2023.04.27-23.25.55:885][230]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/M0RBQW92ZO9VBAQX1F356B_Auto3DC9FB12D45A4F5BB8A1CECA382C9D9CC.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/EN/M0RBQW92ZO9VBAQX1F356B_Auto3.uasset'
+[2023.04.27-23.25.55:888][230]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.202
+[2023.04.27-23.25.55:888][230]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.202
+[2023.04.27-23.26.12:259][883]LogViewport: Scene viewport resized to 1386x704, mode Windowed.
+[2023.04.27-23.26.12:317][885]LogViewport: Scene viewport resized to 1386x686, mode Windowed.
+[2023.04.27-23.26.12:394][887]LogViewport: Scene viewport resized to 1386x655, mode Windowed.
+[2023.04.27-23.26.12:460][889]LogViewport: Scene viewport resized to 1386x622, mode Windowed.
+[2023.04.27-23.26.12:522][891]LogViewport: Scene viewport resized to 1386x593, mode Windowed.
+[2023.04.27-23.26.12:593][893]LogViewport: Scene viewport resized to 1386x551, mode Windowed.
+[2023.04.27-23.26.12:658][895]LogViewport: Scene viewport resized to 1386x513, mode Windowed.
+[2023.04.27-23.26.12:723][897]LogViewport: Scene viewport resized to 1386x491, mode Windowed.
+[2023.04.27-23.26.12:788][899]LogViewport: Scene viewport resized to 1386x478, mode Windowed.
+[2023.04.27-23.26.13:082][915]LogViewport: Scene viewport resized to 1386x477, mode Windowed.
+[2023.04.27-23.26.36:300][885]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.04.27-23.26.36:301][885]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.04.27-23.26.36:322][885]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1151827656
+[2023.04.27-23.26.36:324][885]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1151827656
+[2023.04.27-23.26.59:780][857]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.27-23.26.59:796][858]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.27-23.27.48:389][931]LogEditorViewport: Clicking Background
+[2023.04.27-23.29.01:577][795]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPerson/3D_Models/Meshs/PHU.PHU
+[2023.04.27-23.29.01:738][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-23.29.02:040][795]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: ================================================
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Total job queries 300, among them cache hits 20 (6.67%)
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Tracking 280 distinct input hashes that result in 57 distinct outputs (20.36%)
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: RAM used: 1.57 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.38%
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Shaders Compiled: 12
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100.00%)
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Time job spent in pending queue: average 5.73 s, longest 9.81 s
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Job execution time: average 3.79 s, max 8.33 s
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Job life time (pending + execution): average 9.52 s, max 11.57
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.66 s
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Average processing rate: 1.03 jobs/sec
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Total thread time: 21.87 s
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Total thread preprocess time: 1.97 s
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Percentage time preprocessing: 9.00%
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Effective parallelization: 1.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 2.27 sec, max 2.67 sec, min 1.98 sec)
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 2.04 sec, max 2.22 sec, min 1.89 sec)
+[2023.04.27-23.29.03:349][795]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 1.77 sec, max 1.97 sec, min 1.65 sec)
+[2023.04.27-23.29.03:350][795]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 1.20 sec, max 1.40 sec, min 1.08 sec)
+[2023.04.27-23.29.03:350][795]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.04.27-23.29.03:350][795]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.19% of total time (compiled    3 times, average 2.27 sec, max 2.67 sec, min 1.98 sec)
+[2023.04.27-23.29.03:350][795]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.02% of total time (compiled    3 times, average 2.04 sec, max 2.22 sec, min 1.89 sec)
+[2023.04.27-23.29.03:350][795]LogShaderCompilers: Display:                                                 FLumenCardVS - 24.31% of total time (compiled    3 times, average 1.77 sec, max 1.97 sec, min 1.65 sec)
+[2023.04.27-23.29.03:350][795]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 16.48% of total time (compiled    3 times, average 1.20 sec, max 1.40 sec, min 1.08 sec)
+[2023.04.27-23.29.03:350][795]LogShaderCompilers: Display: ================================================
+[2023.04.27-23.29.03:365][795]LogViewport: Scene viewport resized to 1403x908, mode Windowed.
+[2023.04.27-23.29.23:749][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-23.29.23:938][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/3D_Models/Meshs/PHU" FILE="C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/Meshs/PHU.uasset" SILENT=true
+[2023.04.27-23.29.23:966][355]LogSavePackage: Moving output files for package: /Game/ThirdPerson/3D_Models/Meshs/PHU
+[2023.04.27-23.29.23:968][355]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/PHU1696C28B4D7DCF695D3201901B5287EF.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/3D_Models/Meshs/PHU.uasset'
+[2023.04.27-23.29.24:009][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 2.72 sec)
+[2023.04.27-23.29.24:025][355]AssetCheck: New page: Asset Save: PHU
+[2023.04.27-23.29.24:025][355]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/3D_Models/Meshs/PHU.PHU
+[2023.04.27-23.29.25:993][403]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-23.29.25:993][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-23.29.31:525][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.04.27-23.29.31:525][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.04.27-23.29.31:526][611]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2023.04.27-23.29.31:526][611]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2023.04.27-23.29.32:225][636]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.04.27-23.29.32:225][636]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.04.27-23.29.32:230][636]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657
+[2023.04.27-23.29.32:231][636]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657
+[2023.04.27-23.30.09:619][192]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.438 Z=0.250
+[2023.04.27-23.30.09:619][192]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.438 Z=0.250
+[2023.04.27-23.30.10:095][210]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2023.04.27-23.30.10:095][210]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2023.04.27-23.30.12:488][307]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.27-23.30.12:490][307]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0' 
+[2023.04.27-23.30.12:491][307]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.27-23.30.12:491][307]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0' 
+[2023.04.27-23.30.12:582][312]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0, from: Addition to navoctree)
+[2023.04.27-23.30.13:039][329]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0, from: Remove from navoctree)
+[2023.04.27-23.30.13:072][329]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2023.04.27-23.30.13:072][329]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2023.04.27-23.30.13:498][346]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.04.27-23.30.13:498][346]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.04.27-23.30.23:061][755]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.27-23.30.23:082][756]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.27-23.30.26:854][969]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.27-23.30.26:874][970]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.27-23.30.27:646][  9]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.27-23.30.27:660][ 10]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.27-23.30.30:888][138]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.27-23.30.30:889][138]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2023.04.27-23.31.47:511][388]Cmd: DUPLICATE
+[2023.04.27-23.31.47:511][388]Cmd: ACTOR DUPLICATE
+[2023.04.27-23.31.55:432][747]LogStaticMesh: Display: Building static mesh SMALL_LETTER_02...
+[2023.04.27-23.31.55:459][747]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ConveyorBelt/ParcelTextures/SL2/SMALL_LETTER_02) ...
+[2023.04.27-23.31.55:500][747]LogStaticMesh: Built static mesh [0.07s] /Game/ConveyorBelt/ParcelTextures/SL2/SMALL_LETTER_02.SMALL_LETTER_02
+[2023.04.27-23.31.59:784][886]LogTexture: Display: Building textures: /Game/ConveyorBelt/ParcelTextures/SL2/SMALL_LETTER_02_lambert38_Normal.SMALL_LETTER_02_lambert38_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2023.04.27-23.31.59:818][886]LogTexture: Display: Building textures: /Game/ConveyorBelt/ParcelTextures/SL2/SMALL_LETTER_02_lambert38_BaseColor.SMALL_LETTER_02_lambert38_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.04.27-23.31.59:888][887]LogTexture: Display: Building textures: /Game/ConveyorBelt/ParcelTextures/SL2/SMALL_LETTER_02_lambert38_OcclusionRoughnessMetallic.SMALL_LETTER_02_lambert38_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.04.27-23.32.03:920][  6]LogShaderCompilers: Display: ================================================
+[2023.04.27-23.32.03:920][  6]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.27-23.32.03:920][  6]LogShaderCompilers: Display: Total job queries 322, among them cache hits 22 (6.83%)
+[2023.04.27-23.32.03:920][  6]LogShaderCompilers: Display: Tracking 294 distinct input hashes that result in 62 distinct outputs (21.09%)
+[2023.04.27-23.32.03:920][  6]LogShaderCompilers: Display: RAM used: 1.64 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.40%
+[2023.04.27-23.32.03:920][  6]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.27-23.32.03:920][  6]LogShaderCompilers: Display: Shaders Compiled: 14
+[2023.04.27-23.32.03:920][  6]LogShaderCompilers: Display: Jobs assigned 18, completed 14 (77.78%)
+[2023.04.27-23.32.03:920][  6]LogShaderCompilers: Display: Average time worker was idle: 552.71 s
+[2023.04.27-23.32.03:920][  6]LogShaderCompilers: Display: Time job spent in pending queue: average 4.25 s, longest 9.81 s
+[2023.04.27-23.32.03:920][  6]LogShaderCompilers: Display: Job execution time: average 4.05 s, max 8.33 s
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display: Job life time (pending + execution): average 8.97 s, max 11.57
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.59 s
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display: Average processing rate: 0.80 jobs/sec
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display: Total thread time: 24.98 s
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display: Total thread preprocess time: 2.29 s
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display: Percentage time preprocessing: 9.15%
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display: Effective parallelization: 1.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 2.27 sec, max 2.67 sec, min 1.98 sec)
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 2.04 sec, max 2.22 sec, min 1.89 sec)
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 1.79 sec, max 1.97 sec, min 1.65 sec)
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 1.22 sec, max 1.40 sec, min 1.08 sec)
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display:                                                 FLumenCardVS - 28.64% of total time (compiled    4 times, average 1.79 sec, max 1.97 sec, min 1.65 sec)
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.31% of total time (compiled    3 times, average 2.27 sec, max 2.67 sec, min 1.98 sec)
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.53% of total time (compiled    3 times, average 2.04 sec, max 2.22 sec, min 1.89 sec)
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 19.52% of total time (compiled    4 times, average 1.22 sec, max 1.40 sec, min 1.08 sec)
+[2023.04.27-23.32.03:921][  6]LogShaderCompilers: Display: ================================================
+[2023.04.27-23.32.46:821][689]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1463092658.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.04.27-23.32.46:822][689]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1463092658.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.04.27-23.33.56:592][683]Cmd: DUPLICATE
+[2023.04.27-23.33.56:592][683]Cmd: ACTOR DUPLICATE
+[2023.04.27-23.34.41:982][472]Cmd: DUPLICATE
+[2023.04.27-23.34.41:982][472]Cmd: ACTOR DUPLICATE
+[2023.04.27-23.35.47:361][104]Cmd: DUPLICATE
+[2023.04.27-23.35.47:361][104]Cmd: ACTOR DUPLICATE
+[2023.04.27-23.36.28:215][899]LogViewport: Scene viewport resized to 1386x503, mode Windowed.
+[2023.04.27-23.36.28:266][901]LogViewport: Scene viewport resized to 1386x638, mode Windowed.
+[2023.04.27-23.36.28:302][902]LogViewport: Scene viewport resized to 1386x719, mode Windowed.
+[2023.04.27-23.36.28:377][904]LogViewport: Scene viewport resized to 1386x777, mode Windowed.
+[2023.04.27-23.36.28:420][906]LogViewport: Scene viewport resized to 1386x794, mode Windowed.
+[2023.04.27-23.36.28:450][907]LogViewport: Scene viewport resized to 1386x802, mode Windowed.
+[2023.04.27-23.36.28:511][909]LogViewport: Scene viewport resized to 1386x814, mode Windowed.
+[2023.04.27-23.37.38:484][903]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2023.04.27-23.37.38:495][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HW/SE2UT9S8N4XDRBAFODCPBJ_Auto4
+[2023.04.27-23.37.38:497][903]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/SE2UT9S8N4XDRBAFODCPBJ_Auto4124355E64CE520CAB4B4B8AE412875DF.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HW/SE2UT9S8N4XDRBAFODCPBJ_Auto4.uasset'
+[2023.04.27-23.37.38:500][903]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.328
+[2023.04.27-23.37.38:500][903]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.328
+[2023.04.27-23.40.01:565][466]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2023.04.27-23.40.01:568][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-23.40.04:980][558]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-23.40.04:980][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-23.41.46:924][258]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'USceneComponent::SetVisibility' [Element not found.]
+[2023.04.27-23.41.58:887][694]LogEditorTransaction: Undo Move Node
+[2023.04.27-23.43.50:112][735]BlueprintLog: New page: Compile BP_GameManager
+[2023.04.27-23.43.50:614][735]LogBlueprint: Error: [AssetLog] C:\Users\joshu\Documents\Unreal Projects\Bigfoots-First-Game\Content\ThirdPerson\Blueprints\BP_GameManager.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SpotLight  to imply a specific type.
+[2023.04.27-23.43.50:614][735]LogBlueprint: Error: [AssetLog] C:\Users\joshu\Documents\Unreal Projects\Bigfoots-First-Game\Content\ThirdPerson\Blueprints\BP_GameManager.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SpotLight  to imply a specific type.
+[2023.04.27-23.43.50:619][735]LogBlueprint: Error: [AssetLog] C:\Users\joshu\Documents\Unreal Projects\Bigfoots-First-Game\Content\ThirdPerson\Blueprints\BP_GameManager.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2023.04.27-23.43.50:619][735]LogBlueprint: Error: [AssetLog] C:\Users\joshu\Documents\Unreal Projects\Bigfoots-First-Game\Content\ThirdPerson\Blueprints\BP_GameManager.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2023.04.27-23.43.50:924][735]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2023.04.27-23.44.43:393][691]BlueprintLog: New page: Compile BP_GameManager
+[2023.04.27-23.44.43:474][691]LogBlueprint: Warning: [AssetLog] C:\Users\joshu\Documents\Unreal Projects\Bigfoots-First-Game\Content\ThirdPerson\Blueprints\BP_GameManager.uasset: [Compiler] 'Spot Light' does not inherit from 'Point Light' ( Cast To SpotLight  would always fail).
+[2023.04.27-23.44.43:474][691]LogBlueprint: Warning: [AssetLog] C:\Users\joshu\Documents\Unreal Projects\Bigfoots-First-Game\Content\ThirdPerson\Blueprints\BP_GameManager.uasset: [Compiler] 'Spot Light' does not inherit from 'Point Light' ( Cast To SpotLight  would always fail).
+[2023.04.27-23.44.43:753][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2023.04.27-23.45.00:215][289]BlueprintLog: New page: Compile BP_GameManager
+[2023.04.27-23.45.00:567][289]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.04.27-23.45.07:810][556]BlueprintLog: New page: Compile BP_GameManager
+[2023.04.27-23.45.08:141][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.04.27-23.45.16:607][870]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2023.04.27-23.45.18:016][870]LogSlate: Window 'Save Content' being destroyed
+[2023.04.27-23.45.18:058][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-23.45.18:361][870]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameManager
+[2023.04.27-23.45.18:363][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/BP_GameManager8B5ECA494A4D66AE0D6A93A551231070.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/BP_GameManager.uasset'
+[2023.04.27-23.45.18:373][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0
+[2023.04.27-23.45.18:374][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/DVOW806YU9LXU0GQ6KWIE0F464CA1B40A9C6D31D6139A3F8D38594.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0.uasset'
+[2023.04.27-23.45.18:395][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9O/IXZND09X4FQ4JBDGM1T2PS
+[2023.04.27-23.45.18:395][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/IXZND09X4FQ4JBDGM1T2PS4835BF1D4513B653943273A00BDF89BC.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9O/IXZND09X4FQ4JBDGM1T2PS.uasset'
+[2023.04.27-23.45.18:401][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/D2/OM1DAE7943VYMITGWEQQZH
+[2023.04.27-23.45.18:402][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/OM1DAE7943VYMITGWEQQZHB706332C4CBDE5A6B6ED38A743CD3B70.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/D2/OM1DAE7943VYMITGWEQQZH.uasset'
+[2023.04.27-23.45.18:407][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9U/P1GDFU6SE8ZH3XRJLK3FOF
+[2023.04.27-23.45.18:408][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/P1GDFU6SE8ZH3XRJLK3FOFDDB99F8345598D3F045710B6E069C85A.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9U/P1GDFU6SE8ZH3XRJLK3FOF.uasset'
+[2023.04.27-23.45.18:413][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HC/2SKS77CBU8MUPU8R0UV5LS
+[2023.04.27-23.45.18:413][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/2SKS77CBU8MUPU8R0UV5LS218C799743EAC55240230DBFD7925DB0.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HC/2SKS77CBU8MUPU8R0UV5LS.uasset'
+[2023.04.27-23.45.18:418][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NY/324T11BSWLTEZD9QUMCQ98
+[2023.04.27-23.45.18:418][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/324T11BSWLTEZD9QUMCQ98201E62F04EBC20B265250C8D601981B5.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NY/324T11BSWLTEZD9QUMCQ98.uasset'
+[2023.04.27-23.45.18:423][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0Q/2GB4AA4W5NBBCVFIXMVX2H
+[2023.04.27-23.45.18:423][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/2GB4AA4W5NBBCVFIXMVX2H226863D147869AAB2CEF13A4D2D1973A.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0Q/2GB4AA4W5NBBCVFIXMVX2H.uasset'
+[2023.04.27-23.45.18:429][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FD/CRZ993F0NF3U4X3PKCHK2V
+[2023.04.27-23.45.18:430][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/CRZ993F0NF3U4X3PKCHK2V7FB4DE8244B212696F1301B7A67B7649.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FD/CRZ993F0NF3U4X3PKCHK2V.uasset'
+[2023.04.27-23.45.18:438][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3S/CW99JLCIZQ6JPNF54SU2F7
+[2023.04.27-23.45.18:440][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/CW99JLCIZQ6JPNF54SU2F742D23DC04006B27D83CAD78E891EB338.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3S/CW99JLCIZQ6JPNF54SU2F7.uasset'
+[2023.04.27-23.45.18:446][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HW/SE2UT9S8N4XDRBAFODCPBJ
+[2023.04.27-23.45.18:447][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/SE2UT9S8N4XDRBAFODCPBJ10B78C324EB790509D05D4B848ACACB0.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HW/SE2UT9S8N4XDRBAFODCPBJ.uasset'
+[2023.04.27-23.45.18:454][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FE/0ZDUNQYYL7BKX8I00I3Q2W
+[2023.04.27-23.45.18:455][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/0ZDUNQYYL7BKX8I00I3Q2W68B3660542455BF3C01449A4F752866D.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FE/0ZDUNQYYL7BKX8I00I3Q2W.uasset'
+[2023.04.27-23.45.18:461][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/EN/M0RBQW92ZO9VBAQX1F356B
+[2023.04.27-23.45.18:462][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/M0RBQW92ZO9VBAQX1F356B1A79127C4F1AABDAB5AF9590E18964F8.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/EN/M0RBQW92ZO9VBAQX1F356B.uasset'
+[2023.04.27-23.45.18:471][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QP/O26TNPRASON3MR83XMMBA6
+[2023.04.27-23.45.18:472][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/O26TNPRASON3MR83XMMBA6A7B59A2B4606917AA8C398A7CEC2A213.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QP/O26TNPRASON3MR83XMMBA6.uasset'
+[2023.04.27-23.45.18:480][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2N/4RVBJ2B1G9JIAVU0PS47DO
+[2023.04.27-23.45.18:481][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/4RVBJ2B1G9JIAVU0PS47DOC07B7FDC41B1694A54F7E5A596C83A5B.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2N/4RVBJ2B1G9JIAVU0PS47DO.uasset'
+[2023.04.27-23.45.18:487][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L7/265T0RWXMI41VLEHL4XIEV
+[2023.04.27-23.45.18:488][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/265T0RWXMI41VLEHL4XIEV3DF56189489EC55C966AA08FBFCFAC63.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L7/265T0RWXMI41VLEHL4XIEV.uasset'
+[2023.04.27-23.45.18:494][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZE/EKBEL0WYBHJPJUE67W7GU5
+[2023.04.27-23.45.18:496][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/EKBEL0WYBHJPJUE67W7GU574A8F0834F838DC1176D05BB4BBD1808.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZE/EKBEL0WYBHJPJUE67W7GU5.uasset'
+[2023.04.27-23.45.18:504][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/DB/F7VNMRL1FXOYRI27SMOB1D
+[2023.04.27-23.45.18:505][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/F7VNMRL1FXOYRI27SMOB1D287318854E919D165FF9ED905DC27290.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/DB/F7VNMRL1FXOYRI27SMOB1D.uasset'
+[2023.04.27-23.45.18:512][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/40/NXZWB5GT9FPSNWJONSNQGV
+[2023.04.27-23.45.18:513][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/NXZWB5GT9FPSNWJONSNQGVA7AE780E4407447FCC92E190F9944A5A.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/40/NXZWB5GT9FPSNWJONSNQGV.uasset'
+[2023.04.27-23.45.18:521][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/US/FEOQZ5ZTQHL0YNTJNZ5XOB
+[2023.04.27-23.45.18:522][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/FEOQZ5ZTQHL0YNTJNZ5XOB4907A5A04A23665921C1CCAFBD6D1AFA.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/US/FEOQZ5ZTQHL0YNTJNZ5XOB.uasset'
+[2023.04.27-23.45.18:529][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P5/KRL45IO4QSAIZT7279WAWQ
+[2023.04.27-23.45.18:530][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/KRL45IO4QSAIZT7279WAWQD45631824E5F163A08953F93E63FC151.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P5/KRL45IO4QSAIZT7279WAWQ.uasset'
+[2023.04.27-23.45.18:538][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/AL/DTR0PIMMLT33LE78ZAB16O
+[2023.04.27-23.45.18:539][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/DTR0PIMMLT33LE78ZAB16OA3A1948445955907E8CB01B79F9E5A7F.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/AL/DTR0PIMMLT33LE78ZAB16O.uasset'
+[2023.04.27-23.45.18:545][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4F/556J8CZ9S8U164VJRLMS99
+[2023.04.27-23.45.18:546][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/556J8CZ9S8U164VJRLMS99E04843AA4DDF9717E5599897CA53159A.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4F/556J8CZ9S8U164VJRLMS99.uasset'
+[2023.04.27-23.45.18:552][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/76/NHSBHJSOPI5OIQYH4KCZOI
+[2023.04.27-23.45.18:553][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/NHSBHJSOPI5OIQYH4KCZOIDFD70FEB45CCBEA9780A12B5F16BE6B6.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/76/NHSBHJSOPI5OIQYH4KCZOI.uasset'
+[2023.04.27-23.45.18:559][870]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/2V/84SU7KO9QW9QKOYVVHCZXS
+[2023.04.27-23.45.18:560][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/84SU7KO9QW9QKOYVVHCZXS8E07D91445BE80DB8F4EB285516A00CF.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/2V/84SU7KO9QW9QKOYVVHCZXS.uasset'
+[2023.04.27-23.45.18:564][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3T/E6AYFUKH0M0R0HLJ6BRZ55
+[2023.04.27-23.45.18:566][870]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/E6AYFUKH0M0R0HLJ6BRZ554F3E52C346148740E6E79EAEAFBCE00F.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3T/E6AYFUKH0M0R0HLJ6BRZ55.uasset'
+[2023.04.27-23.45.18:585][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 527 ms (total: 3.24 sec)
+[2023.04.27-23.45.18:604][870]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFC26F01_1207824521
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF7C7201_1939894367
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFC16F01_1819525343
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFEB6601_1304925234
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFB57A01_1718312847
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFFF7A01_1688161872
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF256901_1161458552
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_107B44F15E866E7301_1580656959
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_54E1ADAC0BAFC36F01_1371936701
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFB57A01_1783697848
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_107B44F15E866D7301_1247052785
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF5C7C01_1320427295
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF007B01_1128435049
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFC16F01_1888373344
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_107B44F15E866D7301_1948276786
+[2023.04.27-23.45.18:604][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFFF7A01_1286455871
+[2023.04.27-23.45.18:605][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF5C6901_2034175233
+[2023.04.27-23.45.18:605][870]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
+[2023.04.27-23.45.18:605][870]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1702888661
+[2023.04.27-23.45.18:605][870]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1637510660
+[2023.04.27-23.45.18:605][870]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1592119659
+[2023.04.27-23.45.18:605][870]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1463092658
+[2023.04.27-23.45.18:605][870]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1327751657
+[2023.04.27-23.45.18:605][870]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_54E1ADAC0BAF477D01_1151827656
+[2023.04.27-23.45.18:605][870]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_D1D76A0D-498C17A2-09B30DA7-DEDE4751
