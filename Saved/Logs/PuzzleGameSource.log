@@ -3938,3 +3938,27 @@ Script Stack (0 frames) :
 [2023.04.27-19.58.24:478][324]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
 [2023.04.27-19.58.24:478][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2023.04.27-19.58.24:478][324]MaterialEditorStats: Shader Count: 16
+[2023.04.27-20.02.00:587][976]LogEditorViewport: Clicking Background
+[2023.04.27-20.04.30:349][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.04.27-20.04.30:362][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0_Auto5
+[2023.04.27-20.04.30:363][277]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/DVOW806YU9LXU0GQ6KWIE0_Auto5420FF2D145617DBB656074885FDC4E39.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0_Auto5.uasset'
+[2023.04.27-20.04.30:367][277]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.147
+[2023.04.27-20.04.30:367][277]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.147
+[2023.04.27-20.06.30:567][748]LogInterchangeEngine: [Pending] Importing
+[2023.04.27-20.06.30:584][749]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.04.27-20.06.30:632][749]LogTexture: Display: Building textures: /Game/ThirdPerson/ImageTextures/ItemImages/PackagingPeanut.PackagingPeanut (BGRA8, 1200x675 x1x1x1) (Required Memory Estimate: 23.75177 MB), EncodeSpeed: Fast
+[2023.04.27-20.06.30:641][749]LogInterchangeEngine: [Pending] Importing
+[2023.04.27-20.06.30:643][749]LogInterchangeEngine: [Success] Import Done
+[2023.04.27-20.06.30:738][750]LogInterchangeEngine: [Success] Import Done
+[2023.04.27-20.06.41:812][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.04.27-20.06.42:979][268]LogSlate: Window 'Save Content' being destroyed
+[2023.04.27-20.06.43:001][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-20.06.43:121][268]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0
+[2023.04.27-20.06.43:122][268]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/DVOW806YU9LXU0GQ6KWIE049087B224D763345B65AC59B7D3CC979.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0.uasset'
+[2023.04.27-20.06.43:166][268]LogSavePackage: Moving output files for package: /Game/ThirdPerson/ImageTextures/ItemImages/PackagingPeanut
+[2023.04.27-20.06.43:166][268]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/PackagingPeanut5D49A82B4F8AAE55CE58D2A57F977691.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/ImageTextures/ItemImages/PackagingPeanut.uasset'
+[2023.04.27-20.06.43:185][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 7.23 sec)
+[2023.04.27-20.06.43:200][268]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.27-20.06.43:200][268]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
+[2023.04.27-20.06.43:200][268]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/ImageTextures/ItemImages/PackagingPeanut.PackagingPeanut
+[2023.04.27-20.14.23:510][665]LogDerivedDataCache: C:/Users/joshu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.738 and deleted 0 files with total size 0 MiB. Scanned 5373 files in 5313 folders with total size 140 MiB.
