@@ -2011,3 +2011,159 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.04.27-01.07.35:489][618]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFFF7A01_1286455871
 [2023.04.27-01.07.35:489][618]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_107B44F15E866D7301_1948276786
 [2023.04.27-01.07.35:489][618]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFB57A01_1718312847
+[2023.04.27-01.08.33:550][188]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.27-01.08.36:390][260]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.27-01.08.36:406][260]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.04.27-01.08.36:409][260]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.27-01.08.36:409][260]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.27-01.08.36:409][260]LogWorldPartition: Display: GetPartitionedActors took 19 us (total: 4 ms)
+[2023.04.27-01.08.36:410][260]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 12 ms)
+[2023.04.27-01.08.36:411][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-01.08.36:414][260]PIE: New page: PIE session: ThirdPersonMap (Apr 27, 2023, 3:08:36 AM)
+[2023.04.27-01.08.36:414][260]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.27-01.08.36:435][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022657s)
+[2023.04.27-01.08.36:435][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.022710s)
+[2023.04.27-01.08.36:435][260]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-01.08.36:436][260]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.27-01.08.36:436][260]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.27-01.08.36:437][260]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.27-01.08.36:437][260]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.27-01.08.36:441][260]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.04.27-01.08.36:441][260]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 1.47 sec)
+[2023.04.27-01.08.36:441][260]LogPlayLevel: PIE: World Init took: (0.006839s)
+[2023.04.27-01.08.36:600][260]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2023.04.27-01.08.36:603][260]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.27-01.08.36:603][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-01.08.36:603][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-01.08.36:603][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-01.08.36:603][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-01.08.36:603][260]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-01.08.36:603][260]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-01.08.36:603][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-01.08.36:603][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-01.08.36:604][260]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-01.08.36:604][260]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-01.08.36:604][260]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-01.08.36:608][260]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-01.08.36:668][260]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2023.04.27-01.08.36:668][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-01.08.36:668][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-01.08.36:668][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-01.08.36:671][260]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.04.27-01.08.36:671][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.04.27-01.08.36:674][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.04.27-01.08.36:674][260]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.04.27-01.08.36:674][260]LogInit: FAudioDevice initialized.
+[2023.04.27-01.08.36:674][260]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2023.04.27-01.08.36:788][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-01.08.36:788][260]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.27-01.08.36:799][260]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.04.27-02.08.36
+[2023.04.27-01.08.36:800][260]LogWorld: Bringing up level for play took: 0.011243
+[2023.04.27-01.08.36:804][260]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.04.27-01.08.36:808][260]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1694.000 Y=446.000 Z=122.475
+[2023.04.27-01.08.36:818][260]PIE: Server logged in
+[2023.04.27-01.08.36:823][260]PIE: Play in editor total start time 0.417 seconds.
+[2023.04.27-01.08.36:878][260]LogViewport: Scene viewport resized to 1913x1030, mode Windowed.
+[2023.04.27-01.08.51:472][643]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.04.27-01.08.51:493][643]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.04.27-01.08.53:742][737]LogViewport: Scene viewport resized to 1386x211, mode Windowed.
+[2023.04.27-01.08.53:840][739]LogViewport: Scene viewport resized to 1386x346, mode Windowed.
+[2023.04.27-01.08.53:915][741]LogViewport: Scene viewport resized to 1386x534, mode Windowed.
+[2023.04.27-01.08.54:007][743]LogViewport: Scene viewport resized to 1386x635, mode Windowed.
+[2023.04.27-01.08.54:082][745]LogViewport: Scene viewport resized to 1386x651, mode Windowed.
+[2023.04.27-01.08.54:171][748]LogViewport: Scene viewport resized to 1386x664, mode Windowed.
+[2023.04.27-01.08.54:400][758]LogViewport: Scene viewport resized to 1386x668, mode Windowed.
+[2023.04.27-01.08.54:486][760]LogViewport: Scene viewport resized to 1386x652, mode Windowed.
+[2023.04.27-01.09.01:020][780]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=7
+[2023.04.27-01.09.17:213][968]LogViewport: Scene viewport resized to 1386x643, mode Windowed.
+[2023.04.27-01.09.17:295][969]LogViewport: Scene viewport resized to 1386x536, mode Windowed.
+[2023.04.27-01.09.17:369][971]LogViewport: Scene viewport resized to 1386x152, mode Windowed.
+[2023.04.27-01.09.51:312][119]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Audio_8_6AD636F84374B5F47D8454AA031D37C3' of length 0 in '/Game/ThirdPerson/Blueprints/Interactives/S_Dialogue.S_Dialogue'!
+[2023.04.27-01.09.51:312][119]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C.StartCutscene
+
+[2023.04.27-01.09.59:922][448]LogAudioMixer: Warning: Audio Thread Command from SetListenerTransforms()() took 17.305099 milleseconds to execute
+[2023.04.27-01.10.00:755][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-01.10.00:757][475]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.27-01.10.00:762][475]LogSlate: Window 'PuzzleGameSource Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.27-01.10.00:789][475]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-01.10.00:792][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-01.10.00:793][475]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.04.27-01.10.00:887][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-01.10.00:907][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-01.10.01:067][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-01.10.01:068][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.27-01.10.01:070][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.27-01.10.01:086][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.04.27-01.10.01:217][476]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.04.27-01.10.12:251][694]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.27-01.10.24:173][ 90]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-01.10.24:173][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-01.10.24:194][ 90]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-01.10.24:194][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-01.10.25:456][127]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-01.10.25:456][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-01.10.27:206][183]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.27-01.10.27:206][183]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-01.10.27:206][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-01.10.29:166][236]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-01.10.29:166][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-01.10.29:186][236]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-01.10.29:186][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-01.11.16:393][670]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Menus/W_Menu.W_Menu
+[2023.04.27-01.11.16:394][670]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-01.11.16:427][670]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-01.11.17:380][670]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-01.11.17:380][670]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-01.11.30:240][121]BlueprintLog: New page: Compile BP_GameManager
+[2023.04.27-01.11.30:759][121]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2023.04.27-01.11.36:671][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-01.11.36:908][325]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameManager
+[2023.04.27-01.11.36:909][325]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/BP_GameManager4A25BEB24B41ED9093D0A994055E0E81.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/BP_GameManager.uasset'
+[2023.04.27-01.11.36:929][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 258 ms (total: 4.19 sec)
+[2023.04.27-01.11.36:942][325]AssetCheck: New page: Asset Save: BP_GameManager
+[2023.04.27-01.11.36:942][325]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager
+[2023.04.27-01.11.40:781][505]LogViewport: Scene viewport resized to 1386x5, mode Windowed.
+[2023.04.27-01.11.40:854][507]LogViewport: Scene viewport resized to 1386x84, mode Windowed.
+[2023.04.27-01.11.40:917][509]LogViewport: Scene viewport resized to 1386x225, mode Windowed.
+[2023.04.27-01.11.40:976][511]LogViewport: Scene viewport resized to 1386x373, mode Windowed.
+[2023.04.27-01.11.41:034][513]LogViewport: Scene viewport resized to 1386x510, mode Windowed.
+[2023.04.27-01.11.41:103][515]LogViewport: Scene viewport resized to 1386x582, mode Windowed.
+[2023.04.27-01.11.41:153][517]LogViewport: Scene viewport resized to 1386x598, mode Windowed.
+[2023.04.27-01.11.41:210][519]LogViewport: Scene viewport resized to 1386x614, mode Windowed.
+[2023.04.27-01.11.41:271][521]LogViewport: Scene viewport resized to 1386x625, mode Windowed.
+[2023.04.27-01.11.41:333][523]LogViewport: Scene viewport resized to 1386x639, mode Windowed.
+[2023.04.27-01.11.41:402][525]LogViewport: Scene viewport resized to 1386x665, mode Windowed.
+[2023.04.27-01.11.41:464][527]LogViewport: Scene viewport resized to 1386x675, mode Windowed.
+[2023.04.27-01.11.41:582][532]LogViewport: Scene viewport resized to 1386x680, mode Windowed.
+[2023.04.27-01.11.41:654][534]LogViewport: Scene viewport resized to 1386x683, mode Windowed.
+[2023.04.27-01.11.44:348][639]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.04.27-01.13.04:889][854]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.27-01.13.42:676][ 44]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/Interactives/Wiring/W_Wiring.W_Wiring
+[2023.04.27-01.13.42:677][ 44]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-01.13.42:714][ 44]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-01.13.43:515][ 44]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-01.13.43:515][ 44]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-01.14.43:392][109]BlueprintLog: New page: Compile W_Wiring
+[2023.04.27-01.14.43:723][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2023.04.27-01.14.46:804][189]BlueprintLog: New page: Compile W_Wiring
+[2023.04.27-01.14.46:985][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.04.27-01.14.47:810][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-01.14.48:057][207]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Interactives/Wiring/W_Wiring
+[2023.04.27-01.14.48:058][207]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/W_Wiring3082F376456339E8C1EA0AA056EA2685.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/Interactives/Wiring/W_Wiring.uasset'
+[2023.04.27-01.14.48:085][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 274 ms (total: 4.46 sec)
+[2023.04.27-01.14.48:104][207]AssetCheck: New page: Asset Save: W_Wiring
+[2023.04.27-01.14.48:104][207]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/Interactives/Wiring/W_Wiring.W_Wiring
+[2023.04.27-01.14.51:706][332]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.04.27-01.14.51:722][332]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.04.27-01.15.01:580][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.04.27-01.15.03:025][783]LogSlate: Window 'Save Content' being destroyed
+[2023.04.27-01.15.03:052][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-01.15.03:188][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0
+[2023.04.27-01.15.03:189][783]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/DVOW806YU9LXU0GQ6KWIE0FDDFA0134697DAA657073C939C7F79F1.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0.uasset'
+[2023.04.27-01.15.03:196][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/7UI4BADUMZBVIHEV67VOIU
+[2023.04.27-01.15.03:198][783]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/7UI4BADUMZBVIHEV67VOIUED3AD53B4BF715FAA74B6BB654C2D32C.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/7UI4BADUMZBVIHEV67VOIU.uasset'
+[2023.04.27-01.15.03:220][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 4.63 sec)
+[2023.04.27-01.15.03:234][783]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.27-01.15.03:234][783]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_Wiring_C_UAID_54E1ADAC0BAFDD6C01_1827986103
+[2023.04.27-01.15.03:234][783]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
