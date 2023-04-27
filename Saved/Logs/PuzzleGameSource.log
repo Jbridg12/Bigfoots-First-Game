@@ -7768,3 +7768,66 @@ Make sure 'W_TutorialUI_C' has been compiled for  Get CharacterImage
 [2023.04.26-23.39.11:041][122]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UIElements/Menus/Pause_Menu_BG.Pause_Menu_BG
 [2023.04.26-23.39.11:041][122]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFC26F01_1207824521
 [2023.04.26-23.39.11:041][122]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
+[2023.04.26-23.50.38:428][649]LogViewport: Scene viewport resized to 1386x694, mode Windowed.
+[2023.04.26-23.50.38:477][651]LogViewport: Scene viewport resized to 1386x631, mode Windowed.
+[2023.04.26-23.50.38:537][653]LogViewport: Scene viewport resized to 1386x507, mode Windowed.
+[2023.04.26-23.50.38:594][655]LogViewport: Scene viewport resized to 1386x412, mode Windowed.
+[2023.04.26-23.50.38:647][657]LogViewport: Scene viewport resized to 1386x365, mode Windowed.
+[2023.04.26-23.50.38:698][659]LogViewport: Scene viewport resized to 1386x342, mode Windowed.
+[2023.04.26-23.50.38:748][661]LogViewport: Scene viewport resized to 1386x326, mode Windowed.
+[2023.04.26-23.50.38:799][663]LogViewport: Scene viewport resized to 1386x292, mode Windowed.
+[2023.04.26-23.50.38:851][665]LogViewport: Scene viewport resized to 1386x257, mode Windowed.
+[2023.04.26-23.50.38:903][667]LogViewport: Scene viewport resized to 1386x230, mode Windowed.
+[2023.04.26-23.50.38:953][669]LogViewport: Scene viewport resized to 1386x203, mode Windowed.
+[2023.04.26-23.50.39:007][671]LogViewport: Scene viewport resized to 1386x183, mode Windowed.
+[2023.04.26-23.51.54:130][632]LogUObjectHash: Compacting FUObjectHashTables data took  10.14ms
+[2023.04.26-23.51.54:152][632]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/40/NXZWB5GT9FPSNWJONSNQGV_Auto4
+[2023.04.26-23.51.54:153][632]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/NXZWB5GT9FPSNWJONSNQGV_Auto41F76CA534ABE1E7972761D8FA65A6811.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/40/NXZWB5GT9FPSNWJONSNQGV_Auto4.uasset'
+[2023.04.26-23.51.54:156][632]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.323
+[2023.04.26-23.51.54:156][632]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.323
+[2023.04.26-23.55.48:884][480]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.26-23.55.48:907][480]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.26-23.55.48:926][481]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.26-23.55.52:060][629]LogContentBrowser: Attempting asset rename: NewFolder -> SFX
+[2023.04.26-23.55.52:064][629]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.26-23.56.03:486][908]LogDerivedDataCache: C:/Users/joshu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.355 and deleted 0 files with total size 0 MiB. Scanned 5349 files in 5289 folders with total size 135 MiB.
+[2023.04.26-23.56.07:195][908]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/Source/Audio/SFX/Keypad.wav)
+[2023.04.26-23.56.07:238][908]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Keypad...
+[2023.04.26-23.56.07:247][908]LogAudio: Display: Chunk size for SoundWave /Game/ThirdPerson/Sounds/SoundWaves/SFX/Keypad.Keypad: 262144
+[2023.04.26-23.56.07:251][908]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Keypad...
+[2023.04.26-23.56.07:268][908]LogAudio: Display: Chunk size for SoundWave /Game/ThirdPerson/Sounds/SoundWaves/SFX/Keypad.Keypad: 262144
+[2023.04.26-23.56.24:268][740]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Interactives/Keypad/INT_Keypad.INT_Keypad
+[2023.04.26-23.56.24:269][740]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.26-23.56.51:503][815]LogViewport: Scene viewport resized to 1386x193, mode Windowed.
+[2023.04.26-23.56.51:537][816]LogViewport: Scene viewport resized to 1386x211, mode Windowed.
+[2023.04.26-23.56.51:629][818]LogViewport: Scene viewport resized to 1386x275, mode Windowed.
+[2023.04.26-23.56.51:695][820]LogViewport: Scene viewport resized to 1386x341, mode Windowed.
+[2023.04.26-23.56.51:764][822]LogViewport: Scene viewport resized to 1386x405, mode Windowed.
+[2023.04.26-23.56.51:809][823]LogViewport: Scene viewport resized to 1386x443, mode Windowed.
+[2023.04.26-23.56.51:882][825]LogViewport: Scene viewport resized to 1386x519, mode Windowed.
+[2023.04.26-23.56.51:935][826]LogViewport: Scene viewport resized to 1386x584, mode Windowed.
+[2023.04.26-23.56.52:007][828]LogViewport: Scene viewport resized to 1386x663, mode Windowed.
+[2023.04.26-23.56.52:077][830]LogViewport: Scene viewport resized to 1386x698, mode Windowed.
+[2023.04.26-23.56.52:110][831]LogViewport: Scene viewport resized to 1386x702, mode Windowed.
+[2023.04.27-00.00.30:428][723]BlueprintLog: New page: Compile W_Keypad
+[2023.04.27-00.00.30:931][723]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2023.04.27-00.00.50:076][536]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2023.04.27-00.00.52:143][536]LogSlate: Window 'Save Content' being destroyed
+[2023.04.27-00.00.52:168][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-00.00.52:306][536]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/S9/J0BSK8MXLUMCP4EU16FBIC
+[2023.04.27-00.00.52:307][536]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/J0BSK8MXLUMCP4EU16FBIC8C78E7EB44C6F202F0BE48AB570C0670.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/S9/J0BSK8MXLUMCP4EU16FBIC.uasset'
+[2023.04.27-00.00.52:314][536]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/E8/3X5LS9PVRVT0VRXD8BR1Z5
+[2023.04.27-00.00.52:315][536]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/3X5LS9PVRVT0VRXD8BR1Z5563E8162460087E2697B5DA9939D4858.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/E8/3X5LS9PVRVT0VRXD8BR1Z5.uasset'
+[2023.04.27-00.00.52:321][536]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/40/NXZWB5GT9FPSNWJONSNQGV
+[2023.04.27-00.00.52:323][536]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/NXZWB5GT9FPSNWJONSNQGVE3F8AD0241D5D4CB0A8422BC785EB1C5.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/40/NXZWB5GT9FPSNWJONSNQGV.uasset'
+[2023.04.27-00.00.52:342][536]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Sounds/SoundWaves/SFX/Keypad
+[2023.04.27-00.00.52:342][536]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/KeypadDC2E7B1543B9FE43C5BA0BB927E40CDB.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Sounds/SoundWaves/SFX/Keypad.uasset'
+[2023.04.27-00.00.52:514][536]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Interactives/Keypad/W_Keypad
+[2023.04.27-00.00.52:515][536]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/W_KeypadD86941F64EE29405E553E5B9C9110DA5.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/Interactives/Keypad/W_Keypad.uasset'
+[2023.04.27-00.00.52:544][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 375 ms (total: 23.0 sec)
+[2023.04.27-00.00.52:565][536]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.27-00.00.52:565][536]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/Interactives/Keypad/W_Keypad.W_Keypad
+[2023.04.27-00.00.52:566][536]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/Keypad/INT_Keypad.INT_Keypad_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_Keypad_C_UAID_54E1ADAC0BAFEB6601_1312578235
+[2023.04.27-00.00.52:566][536]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/Keypad/INT_Keypad.INT_Keypad_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_Keypad_C_UAID_54E1ADAC0BAF5C6B01_1221749343
+[2023.04.27-00.00.52:566][536]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFC26F01_1207824521
+[2023.04.27-00.00.52:566][536]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/ThirdPerson/Sounds/SoundWaves/SFX/Keypad.Keypad
