@@ -3877,3 +3877,64 @@ Script Stack (0 frames) :
 [2023.04.27-19.52.45:191][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 6.44 sec)
 [2023.04.27-19.52.45:205][ 73]AssetCheck: New page: Asset Save: INT_TextBased_C_UAID_107B44F15E866E7301_1580656959
 [2023.04.27-19.52.45:206][ 73]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_107B44F15E866E7301_1580656959
+[2023.04.27-19.58.00:053][764]LogInterchangeEngine: [Pending] Importing
+[2023.04.27-19.58.00:141][765]LogInterchangeEngine: [Pending] Importing
+[2023.04.27-19.58.00:410][768]LogTexture: Display: Building textures: /Game/ThirdPerson/ImageTextures/SpeakerFaces/WallDecor/We_want_you.We_want_you (BGRA8, 1754x2480 x1x1x1) (Required Memory Estimate: 127.280308 MB), EncodeSpeed: Fast
+[2023.04.27-19.58.00:423][769]LogInterchangeEngine: [Success] Import Done
+[2023.04.27-19.58.00:490][769]LogInterchangeEngine: [Success] Import Done
+[2023.04.27-19.58.04:260][903]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPerson/ImageTextures/SpeakerFaces/WallDecor/M_Poster1.M_Poster1
+[2023.04.27-19.58.04:368][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-19.58.04:519][903]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2023.04.27-19.58.04:598][903]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.04.27-19.58.05:244][903]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.27-19.58.05:244][903]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.27-19.58.05:244][903]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.27-19.58.05:245][903]MaterialEditorStats: Shader Count: 0
+[2023.04.27-19.58.05:267][903]LogShaderCompilers: Display: ================================================
+[2023.04.27-19.58.05:267][903]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.27-19.58.05:267][903]LogShaderCompilers: Display: Total job queries 279, among them cache hits 45 (16.13%)
+[2023.04.27-19.58.05:267][903]LogShaderCompilers: Display: Tracking 234 distinct input hashes that result in 53 distinct outputs (22.65%)
+[2023.04.27-19.58.05:267][903]LogShaderCompilers: Display: RAM used: 1.36 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.33%
+[2023.04.27-19.58.05:267][903]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.27-19.58.05:267][903]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.27-19.58.05:267][903]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.27-19.58.05:267][903]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.27-19.58.05:267][903]LogShaderCompilers: Display: ================================================
+[2023.04.27-19.58.05:282][903]LogViewport: Scene viewport resized to 347x431, mode Windowed.
+[2023.04.27-19.58.05:636][905]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.04.27-19.58.05:636][905]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.27-19.58.05:636][905]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.27-19.58.05:636][905]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.27-19.58.05:636][905]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.27-19.58.05:636][905]MaterialEditorStats: Shader Count: 4
+[2023.04.27-19.58.11:224][134]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.27-19.58.11:224][134]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.27-19.58.11:224][134]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.27-19.58.11:224][134]MaterialEditorStats: Shader Count: 0
+[2023.04.27-19.58.11:386][135]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.04.27-19.58.11:386][135]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.27-19.58.11:386][135]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.27-19.58.11:386][135]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.27-19.58.11:386][135]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.27-19.58.11:386][135]MaterialEditorStats: Shader Count: 4
+[2023.04.27-19.58.12:898][193]LogMaterialEditor: Applying material M_Poster1
+[2023.04.27-19.58.19:434][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.04.27-19.58.19:807][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.04.27-19.58.22:713][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.27-19.58.23:827][324]LogSlate: Window 'Save Content' being destroyed
+[2023.04.27-19.58.23:850][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-19.58.24:177][324]LogSavePackage: Moving output files for package: /Game/ThirdPerson/ImageTextures/SpeakerFaces/WallDecor/M_Poster1
+[2023.04.27-19.58.24:178][324]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/M_Poster1AAA4D2DF4FBF17BDE953409277F64D1D.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/ImageTextures/SpeakerFaces/WallDecor/M_Poster1.uasset'
+[2023.04.27-19.58.24:447][324]LogSavePackage: Moving output files for package: /Game/ThirdPerson/ImageTextures/SpeakerFaces/WallDecor/We_want_you
+[2023.04.27-19.58.24:447][324]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/We_want_you1000FF6E4B30483F9D711B9945F4166F.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/ImageTextures/SpeakerFaces/WallDecor/We_want_you.uasset'
+[2023.04.27-19.58.24:458][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 608 ms (total: 7.05 sec)
+[2023.04.27-19.58.24:471][324]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.27-19.58.24:471][324]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/ImageTextures/SpeakerFaces/WallDecor/M_Poster1.M_Poster1
+[2023.04.27-19.58.24:471][324]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/ImageTextures/SpeakerFaces/WallDecor/We_want_you.We_want_you
+[2023.04.27-19.58.24:477][324]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.04.27-19.58.24:477][324]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.04.27-19.58.24:477][324]MaterialEditorStats: MaxSampler: 267 instructions
+[2023.04.27-19.58.24:478][324]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.27-19.58.24:478][324]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.27-19.58.24:478][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.27-19.58.24:478][324]MaterialEditorStats: Shader Count: 16
