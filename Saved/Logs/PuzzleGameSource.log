@@ -3869,3 +3869,11 @@ Script Stack (0 frames) :
 [2023.04.27-19.52.21:665][683]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF7C7201_1939894367
 [2023.04.27-19.52.21:665][683]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFC26F01_1207824521
 [2023.04.27-19.52.21:665][683]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
+[2023.04.27-19.52.43:796][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.04.27-19.52.45:008][ 73]LogSlate: Window 'Save Content' being destroyed
+[2023.04.27-19.52.45:031][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-19.52.45:162][ 73]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L7/265T0RWXMI41VLEHL4XIEV
+[2023.04.27-19.52.45:164][ 73]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/265T0RWXMI41VLEHL4XIEV2E599336486D8478AA46C281192105AD.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L7/265T0RWXMI41VLEHL4XIEV.uasset'
+[2023.04.27-19.52.45:191][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 6.44 sec)
+[2023.04.27-19.52.45:205][ 73]AssetCheck: New page: Asset Save: INT_TextBased_C_UAID_107B44F15E866E7301_1580656959
+[2023.04.27-19.52.45:206][ 73]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_107B44F15E866E7301_1580656959
