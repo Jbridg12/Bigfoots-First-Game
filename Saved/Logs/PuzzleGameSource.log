@@ -1221,3 +1221,39 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.04.27-00.31.48:051][375]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.27-00.31.48:051][375]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF7C7201_1939894367
 [2023.04.27-00.31.48:051][375]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
+[2023.04.27-00.37.00:592][374]BlueprintLog: New page: Compile BP_GameManager
+[2023.04.27-00.37.01:004][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.04.27-00.37.05:046][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring
+[2023.04.27-00.37.05:047][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-00.37.30:773][625]LogShaderCompilers: Display: ================================================
+[2023.04.27-00.37.30:773][625]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.27-00.37.30:773][625]LogShaderCompilers: Display: Total job queries 235, among them cache hits 29 (12.34%)
+[2023.04.27-00.37.30:773][625]LogShaderCompilers: Display: Tracking 206 distinct input hashes that result in 43 distinct outputs (20.87%)
+[2023.04.27-00.37.30:773][625]LogShaderCompilers: Display: RAM used: 1.21 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.30%
+[2023.04.27-00.37.30:773][625]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.27-00.37.30:773][625]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.27-00.37.30:773][625]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.27-00.37.30:773][625]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.27-00.37.30:773][625]LogShaderCompilers: Display: ================================================
+[2023.04.27-00.37.31:546][651]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.04.27-00.37.31:546][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-00.37.53:055][134]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2023.04.27-00.38.10:239][824]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.04.27-00.38.10:520][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.04.27-00.38.16:597][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.27-00.38.17:996][ 59]LogSlate: Window 'Save Content' being destroyed
+[2023.04.27-00.38.18:021][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-00.38.18:258][ 59]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GameManager
+[2023.04.27-00.38.18:259][ 59]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/BP_GameManagerEA614F204B83E882C7A479AEC5677A59.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/BP_GameManager.uasset'
+[2023.04.27-00.38.18:268][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0
+[2023.04.27-00.38.18:269][ 59]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/DVOW806YU9LXU0GQ6KWIE07C9CCDB749592D5A3651E99A96667237.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0.uasset'
+[2023.04.27-00.38.18:498][ 59]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.04.27-00.38.18:499][ 59]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/BP_ThirdPersonCharacterE961ABAD4013FE40051832A5F6A7BB18.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.04.27-00.38.18:505][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/7UI4BADUMZBVIHEV67VOIU
+[2023.04.27-00.38.18:507][ 59]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/7UI4BADUMZBVIHEV67VOIUE3EFA5C4496E0AFF2A6666AE46B490C4.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/7UI4BADUMZBVIHEV67VOIU.uasset'
+[2023.04.27-00.38.18:531][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 510 ms (total: 904 ms)
+[2023.04.27-00.38.18:546][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.27-00.38.18:546][ 59]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.04.27-00.38.18:546][ 59]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager
+[2023.04.27-00.38.18:546][ 59]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_Wiring_C_UAID_54E1ADAC0BAFDD6C01_1827986103
+[2023.04.27-00.38.18:546][ 59]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
