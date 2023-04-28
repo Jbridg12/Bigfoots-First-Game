@@ -2313,3 +2313,265 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.28-14.47.49:348][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
 [2023.04.28-14.47.49:362][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
 [2023.04.28-14.47.49:442][237]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.04.28-14.49.18:921][737]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.28-14.49.18:937][737]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.04.28-14.49.18:946][737]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.28-14.49.18:946][737]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.28-14.49.18:946][737]LogWorldPartition: Display: GetPartitionedActors took 19 us (total: 1 ms)
+[2023.04.28-14.49.18:947][737]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 13 ms)
+[2023.04.28-14.49.18:947][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.28-14.49.18:947][737]PIE: New page: PIE session: ThirdPersonMap (Apr 28, 2023, 4:49:18 PM)
+[2023.04.28-14.49.18:948][737]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.28-14.49.18:973][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025597s)
+[2023.04.28-14.49.18:973][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.025671s)
+[2023.04.28-14.49.18:974][737]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-14.49.18:975][737]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.28-14.49.18:977][737]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.28-14.49.18:977][737]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.28-14.49.18:977][737]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.28-14.49.18:982][737]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.04.28-14.49.18:982][737]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 2.68 sec)
+[2023.04.28-14.49.18:982][737]LogPlayLevel: PIE: World Init took: (0.008897s)
+[2023.04.28-14.49.19:068][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.04.28-14.49.19:071][737]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.04.28-14.49.19:071][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.28-14.49.19:071][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.28-14.49.19:071][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.28-14.49.19:071][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.28-14.49.19:071][737]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.28-14.49.19:071][737]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.28-14.49.19:071][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.28-14.49.19:071][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.28-14.49.19:072][737]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.28-14.49.19:072][737]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.28-14.49.19:072][737]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.28-14.49.19:075][737]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.28-14.49.19:129][737]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2023.04.28-14.49.19:130][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.28-14.49.19:130][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.28-14.49.19:130][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.28-14.49.19:132][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.04.28-14.49.19:132][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.04.28-14.49.19:134][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.04.28-14.49.19:135][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.04.28-14.49.19:135][737]LogInit: FAudioDevice initialized.
+[2023.04.28-14.49.19:135][737]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2023.04.28-14.49.19:225][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-14.49.19:226][737]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.28-14.49.19:233][737]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.04.28-15.49.19
+[2023.04.28-14.49.19:234][737]LogWorld: Bringing up level for play took: 0.007404
+[2023.04.28-14.49.19:237][737]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.04.28-14.49.19:241][737]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1694.000 Y=446.000 Z=122.475
+[2023.04.28-14.49.19:248][737]PIE: Server logged in
+[2023.04.28-14.49.19:250][737]PIE: Play in editor total start time 0.313 seconds.
+[2023.04.28-14.49.19:274][737]LogViewport: Scene viewport resized to 1913x1030, mode Windowed.
+[2023.04.28-14.49.38:717][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-14.49.38:717][544]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.28-14.49.38:717][544]LogSlate: Window 'PuzzleGameSource Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.28-14.49.38:755][544]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-14.49.38:757][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-14.49.38:757][544]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.04.28-14.49.38:772][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.28-14.49.38:785][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-14.49.38:869][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.04.28-14.49.38:871][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.04.28-14.49.38:884][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.04.28-14.49.38:968][545]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.04.28-14.49.40:407][626]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.28-14.49.40:418][626]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.04.28-14.49.40:423][626]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.28-14.49.40:424][626]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.28-14.49.40:424][626]LogWorldPartition: Display: GetPartitionedActors took 17 us (total: 1 ms)
+[2023.04.28-14.49.40:424][626]LogWorldPartition: Display: GenerateStreaming took 780 us (total: 14 ms)
+[2023.04.28-14.49.40:425][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.28-14.49.40:425][626]PIE: New page: PIE session: ThirdPersonMap (Apr 28, 2023, 4:49:40 PM)
+[2023.04.28-14.49.40:425][626]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.28-14.49.40:443][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018059s)
+[2023.04.28-14.49.40:443][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.018106s)
+[2023.04.28-14.49.40:444][626]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-14.49.40:444][626]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.28-14.49.40:445][626]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.28-14.49.40:445][626]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.28-14.49.40:445][626]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.28-14.49.40:449][626]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.04.28-14.49.40:449][626]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 2.69 sec)
+[2023.04.28-14.49.40:449][626]LogPlayLevel: PIE: World Init took: (0.006140s)
+[2023.04.28-14.49.40:517][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.04.28-14.49.40:520][626]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.04.28-14.49.40:520][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.28-14.49.40:520][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.28-14.49.40:520][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.28-14.49.40:520][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.28-14.49.40:520][626]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.28-14.49.40:520][626]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.28-14.49.40:521][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.28-14.49.40:521][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.28-14.49.40:521][626]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.28-14.49.40:521][626]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.28-14.49.40:521][626]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.28-14.49.40:524][626]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.28-14.49.40:571][626]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2023.04.28-14.49.40:572][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.28-14.49.40:572][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.28-14.49.40:572][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.28-14.49.40:573][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.04.28-14.49.40:573][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.04.28-14.49.40:575][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.04.28-14.49.40:575][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.04.28-14.49.40:576][626]LogInit: FAudioDevice initialized.
+[2023.04.28-14.49.40:576][626]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2023.04.28-14.49.40:676][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-14.49.40:677][626]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.28-14.49.40:683][626]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.04.28-15.49.40
+[2023.04.28-14.49.40:683][626]LogWorld: Bringing up level for play took: 0.006477
+[2023.04.28-14.49.40:686][626]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.04.28-14.49.40:691][626]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1694.000 Y=446.000 Z=122.475
+[2023.04.28-14.49.40:699][626]PIE: Server logged in
+[2023.04.28-14.49.40:701][626]PIE: Play in editor total start time 0.283 seconds.
+[2023.04.28-14.49.40:726][626]LogViewport: Scene viewport resized to 1913x1030, mode Windowed.
+[2023.04.28-14.49.57:167][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-14.49.57:168][314]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.28-14.49.57:168][314]LogSlate: Window 'PuzzleGameSource Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.28-14.49.57:193][314]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-14.49.57:194][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-14.49.57:195][314]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.04.28-14.49.57:210][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.28-14.49.57:225][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-14.49.57:307][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.04.28-14.49.57:309][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.04.28-14.49.57:320][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.04.28-14.49.57:409][315]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.04.28-14.50.06:366][531]LogSlate: Took 0.007380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.28-14.50.09:148][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.04.28-14.50.09:149][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-14.52.25:058][ 29]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.04.28-14.52.25:351][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.04.28-14.53.39:422][841]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.04.28-14.53.39:708][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.04.28-14.53.41:498][903]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.28-14.53.41:510][903]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.04.28-14.53.41:515][903]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.28-14.53.41:515][903]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.28-14.53.41:515][903]LogWorldPartition: Display: GetPartitionedActors took 11 us (total: 1 ms)
+[2023.04.28-14.53.41:516][903]LogWorldPartition: Display: GenerateStreaming took 599 us (total: 14 ms)
+[2023.04.28-14.53.41:516][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.28-14.53.41:516][903]PIE: New page: PIE session: ThirdPersonMap (Apr 28, 2023, 4:53:41 PM)
+[2023.04.28-14.53.41:516][903]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.28-14.53.41:534][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017928s)
+[2023.04.28-14.53.41:534][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.017983s)
+[2023.04.28-14.53.41:534][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-14.53.41:535][903]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.28-14.53.41:536][903]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.28-14.53.41:536][903]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.28-14.53.41:536][903]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.28-14.53.41:540][903]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.04.28-14.53.41:540][903]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 2.69 sec)
+[2023.04.28-14.53.41:540][903]LogPlayLevel: PIE: World Init took: (0.005876s)
+[2023.04.28-14.53.41:631][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.04.28-14.53.41:633][903]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.04.28-14.53.41:633][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.28-14.53.41:633][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.28-14.53.41:633][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.28-14.53.41:633][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.28-14.53.41:633][903]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.28-14.53.41:633][903]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.28-14.53.41:633][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.28-14.53.41:633][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.28-14.53.41:634][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.28-14.53.41:634][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.28-14.53.41:634][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.28-14.53.41:637][903]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.28-14.53.41:684][903]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2023.04.28-14.53.41:684][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.28-14.53.41:684][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.28-14.53.41:685][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.28-14.53.41:687][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.04.28-14.53.41:687][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.04.28-14.53.41:689][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.04.28-14.53.41:689][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.04.28-14.53.41:689][903]LogInit: FAudioDevice initialized.
+[2023.04.28-14.53.41:689][903]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2023.04.28-14.53.41:799][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-14.53.41:799][903]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.28-14.53.41:806][903]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.04.28-15.53.41
+[2023.04.28-14.53.41:806][903]LogWorld: Bringing up level for play took: 0.006857
+[2023.04.28-14.53.41:810][903]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.04.28-14.53.41:814][903]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1694.000 Y=446.000 Z=122.475
+[2023.04.28-14.53.41:827][903]PIE: Server logged in
+[2023.04.28-14.53.41:837][903]PIE: Play in editor total start time 0.327 seconds.
+[2023.04.28-14.53.41:860][903]LogViewport: Scene viewport resized to 1913x1030, mode Windowed.
+[2023.04.28-14.54.08:977][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-14.54.08:977][ 49]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.28-14.54.08:977][ 49]LogSlate: Window 'PuzzleGameSource Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.28-14.54.09:020][ 49]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-14.54.09:021][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-14.54.09:022][ 49]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.04.28-14.54.09:045][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.28-14.54.09:057][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-14.54.09:151][ 49]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.28-14.54.09:152][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.04.28-14.54.09:154][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.04.28-14.54.09:167][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.04.28-14.54.09:262][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.04.28-14.54.11:237][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.04.28-14.54.13:749][152]LogSlate: Window 'Save Content' being destroyed
+[2023.04.28-14.54.13:775][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-14.54.13:900][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FV/JLCS12UE8UJ7OUY317WNDO
+[2023.04.28-14.54.13:901][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/JLCS12UE8UJ7OUY317WNDO863A66BE4DFDDC685A8871BA8A69CF7B.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FV/JLCS12UE8UJ7OUY317WNDO.uasset'
+[2023.04.28-14.54.14:159][152]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.04.28-14.54.14:160][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/BP_ThirdPersonCharacter5675A593443EE4068D48D4850CB081CF.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.04.28-14.54.14:166][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FD/CRZ993F0NF3U4X3PKCHK2V
+[2023.04.28-14.54.14:167][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/CRZ993F0NF3U4X3PKCHK2VB15E2660452D7F6E244E9EAF21206029.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FD/CRZ993F0NF3U4X3PKCHK2V.uasset'
+[2023.04.28-14.54.14:173][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3S/CW99JLCIZQ6JPNF54SU2F7
+[2023.04.28-14.54.14:174][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/CW99JLCIZQ6JPNF54SU2F77BC29DB748F9A31AEFB14B9F8E1D1B2E.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3S/CW99JLCIZQ6JPNF54SU2F7.uasset'
+[2023.04.28-14.54.14:178][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HW/SE2UT9S8N4XDRBAFODCPBJ
+[2023.04.28-14.54.14:180][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/SE2UT9S8N4XDRBAFODCPBJ442B401749E0347B888196A9CA3DBF5C.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HW/SE2UT9S8N4XDRBAFODCPBJ.uasset'
+[2023.04.28-14.54.14:185][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FE/0ZDUNQYYL7BKX8I00I3Q2W
+[2023.04.28-14.54.14:187][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/0ZDUNQYYL7BKX8I00I3Q2W3B1C4B954E3E6526B67AF4B7D37F2380.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FE/0ZDUNQYYL7BKX8I00I3Q2W.uasset'
+[2023.04.28-14.54.14:192][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/EN/M0RBQW92ZO9VBAQX1F356B
+[2023.04.28-14.54.14:193][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/M0RBQW92ZO9VBAQX1F356B0F79671C4F1AF451E7C4CD9D0D7CD7E7.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/EN/M0RBQW92ZO9VBAQX1F356B.uasset'
+[2023.04.28-14.54.14:201][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QP/O26TNPRASON3MR83XMMBA6
+[2023.04.28-14.54.14:202][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/O26TNPRASON3MR83XMMBA6E7C4C0B4459DD193E6591A93E8FC4B23.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QP/O26TNPRASON3MR83XMMBA6.uasset'
+[2023.04.28-14.54.14:208][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2N/4RVBJ2B1G9JIAVU0PS47DO
+[2023.04.28-14.54.14:209][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/4RVBJ2B1G9JIAVU0PS47DOFAEFE32944EF78D775C877B6F443AA89.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2N/4RVBJ2B1G9JIAVU0PS47DO.uasset'
+[2023.04.28-14.54.14:215][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L7/265T0RWXMI41VLEHL4XIEV
+[2023.04.28-14.54.14:216][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/265T0RWXMI41VLEHL4XIEVC3E6B1AF443CA099957069B73BBF9B2F.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L7/265T0RWXMI41VLEHL4XIEV.uasset'
+[2023.04.28-14.54.14:222][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZE/EKBEL0WYBHJPJUE67W7GU5
+[2023.04.28-14.54.14:223][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/EKBEL0WYBHJPJUE67W7GU59A2697E54AC17BAA4A5515BE683ADC8A.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZE/EKBEL0WYBHJPJUE67W7GU5.uasset'
+[2023.04.28-14.54.14:228][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/DB/F7VNMRL1FXOYRI27SMOB1D
+[2023.04.28-14.54.14:229][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/F7VNMRL1FXOYRI27SMOB1DAC9CB3B142F4D8EDA04D6A80DF5DB50C.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/DB/F7VNMRL1FXOYRI27SMOB1D.uasset'
+[2023.04.28-14.54.14:235][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/40/NXZWB5GT9FPSNWJONSNQGV
+[2023.04.28-14.54.14:236][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/NXZWB5GT9FPSNWJONSNQGV9C53F48846BD97C5B26425BE689BFB51.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/40/NXZWB5GT9FPSNWJONSNQGV.uasset'
+[2023.04.28-14.54.14:243][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/US/FEOQZ5ZTQHL0YNTJNZ5XOB
+[2023.04.28-14.54.14:244][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/FEOQZ5ZTQHL0YNTJNZ5XOB1E2A509048F0A8CEFC19048DEE6DAE11.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/US/FEOQZ5ZTQHL0YNTJNZ5XOB.uasset'
+[2023.04.28-14.54.14:250][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P5/KRL45IO4QSAIZT7279WAWQ
+[2023.04.28-14.54.14:251][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/KRL45IO4QSAIZT7279WAWQD2D1F2AE4F4AE3C21D7684BB6FD29790.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P5/KRL45IO4QSAIZT7279WAWQ.uasset'
+[2023.04.28-14.54.14:257][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/AL/DTR0PIMMLT33LE78ZAB16O
+[2023.04.28-14.54.14:258][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/DTR0PIMMLT33LE78ZAB16O806D111E436F8E19E94D8FABCCA4EA85.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/AL/DTR0PIMMLT33LE78ZAB16O.uasset'
+[2023.04.28-14.54.14:264][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4F/556J8CZ9S8U164VJRLMS99
+[2023.04.28-14.54.14:265][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/556J8CZ9S8U164VJRLMS99FC90AA9545A6DD5D54B27F91C3BA55AC.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4F/556J8CZ9S8U164VJRLMS99.uasset'
+[2023.04.28-14.54.14:271][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/76/NHSBHJSOPI5OIQYH4KCZOI
+[2023.04.28-14.54.14:272][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/NHSBHJSOPI5OIQYH4KCZOIB1AEE8D2482B98953C499698E241B5BF.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/76/NHSBHJSOPI5OIQYH4KCZOI.uasset'
+[2023.04.28-14.54.14:278][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/7UI4BADUMZBVIHEV67VOIU
+[2023.04.28-14.54.14:280][152]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/7UI4BADUMZBVIHEV67VOIUFD091D71463CA7F93F1FE28432418DB7.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/7UI4BADUMZBVIHEV67VOIU.uasset'
+[2023.04.28-14.54.14:304][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 528 ms (total: 1.41 sec)
+[2023.04.28-14.54.14:316][152]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF5C6901_2034175233
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFFF7A01_1286455871
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_107B44F15E866D7301_1948276786
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFC16F01_1888373344
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF007B01_1128435049
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF5C7C01_1320427295
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_107B44F15E866D7301_1247052785
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFB57A01_1783697848
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_107B44F15E866E7301_1580656959
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF256901_1161458552
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFFF7A01_1688161872
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFB57A01_1718312847
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFEB6601_1304925234
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFC16F01_1819525343
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAF7C7201_1939894367
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/INT_TextBased.INT_TextBased_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_TextBased_C_UAID_54E1ADAC0BAFC26F01_1207824521
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Interactives/Wiring/INT_Wiring.INT_Wiring_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.INT_Wiring_C_UAID_54E1ADAC0BAFDD6C01_1827986103
+[2023.04.28-14.54.14:316][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Sounds/BP_SoundManager.BP_SoundManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_SoundManager_C_UAID_54E1ADAC0BAF586901_1779847528
