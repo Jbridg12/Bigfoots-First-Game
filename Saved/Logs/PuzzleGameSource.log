@@ -1340,3 +1340,15 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.04.30-21.14.42:109][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 302 ms
 [2023.04.30-21.14.42:119][592]AssetCheck: New page: Asset Save: BP_GameManager
 [2023.04.30-21.14.42:120][592]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager
+[2023.04.30-21.15.19:192][750]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.30-21.15.36:859][803]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.30-21.15.50:085][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.04.30-21.15.51:424][859]LogSlate: Window 'Save Content' being destroyed
+[2023.04.30-21.15.51:447][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-21.15.51:600][859]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0
+[2023.04.30-21.15.51:601][859]LogSavePackage: Moving 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Saved/DVOW806YU9LXU0GQ6KWIE00DF008794CEA44440F0F28934FCB59CA.tmp' to 'C:/Users/joshu/Documents/Unreal Projects/Bigfoots-First-Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Y0/DVOW806YU9LXU0GQ6KWIE0.uasset'
+[2023.04.30-21.15.51:639][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 493 ms)
+[2023.04.30-21.15.51:650][859]AssetCheck: New page: Asset Save: BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
+[2023.04.30-21.15.51:650][859]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_GameManager.BP_GameManager_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameManager_C_UAID_54E1ADAC0BAF0D6901_1255952327
+[2023.04.30-21.15.58:868][903]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.30-21.16.39:637][118]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
