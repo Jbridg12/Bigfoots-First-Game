@@ -2739,3 +2739,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.30-17.15.44:513][357]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ConveyorBelt/image_Auto3
 [2023.04.30-17.15.44:513][357]LogSavePackage: Moving 'C:/Users/loopa/Desktop/Des 203/Github Repo/Bigfoots-First-Game/Saved/image_Auto3B767FDA04991DCE37D8E669DDECF3D62.tmp' to 'C:/Users/loopa/Desktop/Des 203/Github Repo/Bigfoots-First-Game/Saved/Autosaves/Game/ConveyorBelt/image_Auto3.uasset'
 [2023.04.30-17.15.44:514][357]LogFileHelpers: Auto-saving content packages took 0.106
+[2023.04.30-17.16.45:152][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.04.30-17.16.46:315][615]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.30-17.16.46:462][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.04.30-17.16.46:519][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.04.30-17.16.46:573][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.04.30-17.16.47:364][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.04.30-17.16.48:160][639]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.30-17.16.48:225][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.30-17.16.48:283][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.04.30-17.16.48:340][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
