@@ -8,6 +8,19 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C7C12F1E91B789D5BDAC06249A99EC9F3DB7E02D",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/ThirdPerson/3D_Models/Meshs/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "A821A200A9A1ACF2448D527CDEC9091BD90826AA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "280C3D31205D7AD93BF7ACB43C8140CCBC4FEECF",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
@@ -17,12 +30,6 @@
 			"ShaderMapHash": "05ABD5B8476AA77665B45C4BF0B210BC2E437C64",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "A821A200A9A1ACF2448D527CDEC9091BD90826AA",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
 			]
 		},
 		{
@@ -76,13 +83,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C7C12F1E91B789D5BDAC06249A99EC9F3DB7E02D",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/ThirdPerson/3D_Models/Meshs/lambert1"
-			]
-		},
-		{
 			"ShaderMapHash": "CB23E0267F8CB72EDF33305A9A40F656AA753B1E",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
@@ -101,9 +101,34 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A99E425BA44E39389DBBF31010E970F95FBD4B48",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "37A03656098B716CAE7D24202AA7113A149E02E2",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "C12F212B73993622B0F2598C9A82C4BA7C62A10C",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
 			"ShaderMapHash": "B350BF52CA597124E4E1731FD76FDF4023BD720E",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CA18626C48BDB7F6DE49D6AF7172C4163B6E99DE",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
 			]
 		},
 		{
@@ -119,19 +144,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C12F212B73993622B0F2598C9A82C4BA7C62A10C",
-			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
-			]
-		},
-		{
-			"ShaderMapHash": "CA18626C48BDB7F6DE49D6AF7172C4163B6E99DE",
-			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial_VT",
-				"/Engine/EngineMaterials/FlattenMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "F3A0F93A63DDC6F5E1D873DFD4CB0404562B0BC3",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -141,37 +153,6 @@
 			"ShaderMapHash": "ED0C03FFCAB6E3B021D8CB15C00E664D0B962EA7",
 			"Assets": [
 				"/ControlRig/M_Manip"
-			]
-		},
-		{
-			"ShaderMapHash": "0D76944AB68A7459A264731115865E6C0E2EBDC7",
-			"Assets": [
-				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "A99E425BA44E39389DBBF31010E970F95FBD4B48",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "37A03656098B716CAE7D24202AA7113A149E02E2",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
-			"ShaderMapHash": "DF1BF22ECF5BF0EFE210263C65A98E6FDE5195E1",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "05D168923B30A1B25289298A647E1C2CF7F27B21",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough",
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
@@ -193,12 +174,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "62F43C6A79232642F26BEBEE0D9A0B2AEB5438C5",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "D75D57E5943564ED710EC00CA9323F46E652BA09",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -211,46 +186,28 @@
 			]
 		},
 		{
-			"ShaderMapHash": "72045E569EB1023C26CFD1FCEABB705588607790",
+			"ShaderMapHash": "DF1BF22ECF5BF0EFE210263C65A98E6FDE5195E1",
 			"Assets": [
-				"/Game/ConveyorBelt/ParcelTextures/LL1/M_LL1",
-				"/Game/ConveyorBelt/ParcelTextures/LL2/M_LL2",
-				"/Game/ConveyorBelt/ParcelTextures/LP1/M_LP1",
-				"/Game/ConveyorBelt/ParcelTextures/SL1/M_SL1",
-				"/Game/ConveyorBelt/ParcelTextures/SP1/M_SP1",
-				"/Game/ConveyorBelt/ParcelTextures/SP2/M_SP2",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Bin/M_bin",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Crate/M_Crate1",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/OldMonitor/M_MonitorOld",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Camera/M_Camera",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Desk/M_Desk",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Mouse/M_Mouse",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Xray/M_XRay",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Keyboard/M_Keyboard",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Chair/M_Chair1",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Chair/M_Chair2",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Crate/M_Crate2",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Mug/M_Mug",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Locker/M_Locker2",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Doormat/M_Doormat",
-				"/Game/ConveyorBelt/ParcelTextures/LP3/M_LP3",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/PencilPot/M_PencilPot",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Phone/M_Phone",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Electric/ElectricMats/M_ElectricalBack",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Trolley/M_Trolley",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Fax/M_Fax",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Electric/ElectricMats/M_ElectricalDoor",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Electric/ElectricMats/M_ElectricalDoor2",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Conveyor/M_Conveyor",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Tower/M_Tower",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/PHU/M_PHU",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Frame/M_Frame",
-				"/Game/ThirdPerson/3D_Models/WallAndFloor/M_Floor2",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Door/M_DoorWindow",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Speaker/M_SpeakerNew",
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Door/M_Door1",
-				"/Game/ConveyorBelt/ParcelTextures/LP2/M_LP2",
-				"/Game/ConveyorBelt/ParcelTextures/SL2/M_SL2"
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0D76944AB68A7459A264731115865E6C0E2EBDC7",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "05D168923B30A1B25289298A647E1C2CF7F27B21",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "62F43C6A79232642F26BEBEE0D9A0B2AEB5438C5",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
 			]
 		},
 		{
@@ -278,24 +235,18 @@
 			]
 		},
 		{
-			"ShaderMapHash": "75E150DDD5F249A08AA431F706B60A5B87E6DCD7",
-			"Assets": [
-				"/Game/Characters/Keith/Textures/BodyAgain",
-				"/Game/Characters/Keith/Textures/Clothing",
-				"/Game/Characters/Keith/Textures/Eyes",
-				"/Game/Characters/Keith/Textures/Hair1"
-			]
-		},
-		{
 			"ShaderMapHash": "DE7EE9483A3EBC15FA3A337DA071E979C8EB2A42",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "6DBC3DC46FC9EED211D7139B6991F169A8C9E83D",
+			"ShaderMapHash": "75E150DDD5F249A08AA431F706B60A5B87E6DCD7",
 			"Assets": [
-				"/Paper2D/TranslucentUnlitSpriteMaterial"
+				"/Game/Characters/Keith/Textures/Clothing",
+				"/Game/Characters/Keith/Textures/Eyes",
+				"/Game/Characters/Keith/Textures/BodyAgain",
+				"/Game/Characters/Keith/Textures/Hair1"
 			]
 		},
 		{
@@ -311,18 +262,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AA5DB7A4323D27B5C6CB7AC6CB765F7268051FC7",
-			"Assets": [
-				"/Interchange/Materials/LambertSurfaceMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "60846630B9F55C3F2435A94D76718CA19D984436",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
-			]
-		},
-		{
 			"ShaderMapHash": "696435786F9FA3D4C8AC5963CD32F5F7F74797B6",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
@@ -335,51 +274,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "72C993E9D067BAA516044131888B83A40FB53F6D",
+			"ShaderMapHash": "60846630B9F55C3F2435A94D76718CA19D984436",
 			"Assets": [
-				"/Interchange/Materials/OrenNayerMaterial"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
 			]
 		},
 		{
-			"ShaderMapHash": "FAB3E6F4379A67043595431673B631EE2BDA7BFE",
+			"ShaderMapHash": "AA5DB7A4323D27B5C6CB7AC6CB765F7268051FC7",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "0C512F48293746439F89C1AF50C36851114666DC",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "E9CD711D999B601EA75E8487BE8A560C129B555F",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS"
-			]
-		},
-		{
-			"ShaderMapHash": "3F9AB1109592C2EF472A9D2F82C0BC9E5DFF75E3",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
-			]
-		},
-		{
-			"ShaderMapHash": "497FB740F13089DF1B21CD5BA9DA20A9D5643175",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_SG/MI_Transmission_TS"
-			]
-		},
-		{
-			"ShaderMapHash": "A79342CEA292680A873B1CB5217E042444D1FB51",
-			"Assets": [
-				"/Interchange/gltf/M_Unlit"
-			]
-		},
-		{
-			"ShaderMapHash": "1A25B7BC86947130F6F064629AB24FD1B98EF0BE",
-			"Assets": [
-				"/Interchange/Materials/ThinTranslucentMaterial"
+				"/Interchange/Materials/LambertSurfaceMaterial"
 			]
 		},
 		{
@@ -395,6 +298,66 @@
 			]
 		},
 		{
+			"ShaderMapHash": "72C993E9D067BAA516044131888B83A40FB53F6D",
+			"Assets": [
+				"/Interchange/Materials/OrenNayerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C90D46521B6BECFE2BA0AC5DD13F92567F9427C2",
+			"Assets": [
+				"/Game/ThirdPerson/Blueprints/Interactives/Tutorials/Videos/M_Tutorial"
+			]
+		},
+		{
+			"ShaderMapHash": "0C512F48293746439F89C1AF50C36851114666DC",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "FAB3E6F4379A67043595431673B631EE2BDA7BFE",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "A79342CEA292680A873B1CB5217E042444D1FB51",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "1A25B7BC86947130F6F064629AB24FD1B98EF0BE",
+			"Assets": [
+				"/Interchange/Materials/ThinTranslucentMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F852AEF7CAAC86E2CAEA05AA83CB5C414BEC6D57",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "94511CC036E58DF2BF0C35916D28156F53FEDB8A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "5E8E4FDF56E2065F285B6CC3E8024DF1A930C3C8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "0107CC54374954D998CD6242EA01C09D07B1D7B9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen"
+			]
+		},
+		{
 			"ShaderMapHash": "2255DB1A9D1795DC92A2ADE53B0CDD1E6BE8E1F2",
 			"Assets": [
 				"/Interchange/Materials/PBRSurfaceMaterial"
@@ -404,12 +367,6 @@
 			"ShaderMapHash": "4CD3B793DDA0159AEE3D377B6E6B8A7109486A38",
 			"Assets": [
 				"/Interchange/Materials/ClearCoatMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "4CF1E365754A5D6CA1A38F3A958A1537015E55F4",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
 			]
 		},
 		{
@@ -437,6 +394,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E9CD711D999B601EA75E8487BE8A560C129B555F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "497FB740F13089DF1B21CD5BA9DA20A9D5643175",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Transmission_TS"
+			]
+		},
+		{
 			"ShaderMapHash": "67DDFE2EC86C278FA90F6DAF2947D428C247ECA0",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances_SG/MI_Transmission"
@@ -446,18 +415,6 @@
 			"ShaderMapHash": "307CD41354989D3DE6F809303254862D26076E27",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances_MR/MI_Transmission_TS"
-			]
-		},
-		{
-			"ShaderMapHash": "5E8E4FDF56E2065F285B6CC3E8024DF1A930C3C8",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS"
-			]
-		},
-		{
-			"ShaderMapHash": "0107CC54374954D998CD6242EA01C09D07B1D7B9",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen"
 			]
 		},
 		{
@@ -479,27 +436,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "65C6C50A97B2EB816E5795ECAEC6AC4A86E52399",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_SG/MI_Translucent"
-			]
-		},
-		{
-			"ShaderMapHash": "B3F084BE14E58CB4569F69BDE999C030F703CC8B",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat"
-			]
-		},
-		{
-			"ShaderMapHash": "0DACFE11F72BA88CB90604A629BA452B8F8EBE2B",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_TS"
-			]
-		},
-		{
 			"ShaderMapHash": "A31F559106695EDDE19FE5D72B793408A9FD38F1",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "65C6C50A97B2EB816E5795ECAEC6AC4A86E52399",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Translucent"
 			]
 		},
 		{
@@ -512,6 +457,18 @@
 			"ShaderMapHash": "EF58B4151996AB4312A1CD45250CBEFEF126A3F2",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "B3F084BE14E58CB4569F69BDE999C030F703CC8B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "0DACFE11F72BA88CB90604A629BA452B8F8EBE2B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_TS"
 			]
 		},
 		{
@@ -533,71 +490,78 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F852AEF7CAAC86E2CAEA05AA83CB5C414BEC6D57",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_TS"
-			]
-		},
-		{
-			"ShaderMapHash": "94511CC036E58DF2BF0C35916D28156F53FEDB8A",
-			"Assets": [
-				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS"
-			]
-		},
-		{
 			"ShaderMapHash": "5A9F31D38E2E99D979575CBA9EE64DD955A76259",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat"
 			]
 		},
 		{
-			"ShaderMapHash": "CE560AD3E06F3018E846AD12E46F69E368D43D19",
+			"ShaderMapHash": "F0711D20A315ED32986DF1E392BCEE88F2211A53",
 			"Assets": [
-				"/Game/ThirdPerson/ImageTextures/SpeakerFaces/AMI_Flipbooks/AMI_Blink"
+				"/Game/ThirdPerson/PostProcess/M_Outline"
 			]
 		},
 		{
-			"ShaderMapHash": "10C06BE0E398178D19B8D8BDAF75F8E7985C8717",
+			"ShaderMapHash": "72045E569EB1023C26CFD1FCEABB705588607790",
 			"Assets": [
-				"/Game/ThirdPerson/ImageTextures/SpeakerFaces/AMI_Flipbooks/AMI_Confused"
-			]
-		},
-		{
-			"ShaderMapHash": "47A61AA49C21E7D088510B1C747C1B23F8086FCA",
-			"Assets": [
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Locker/M_Locker1"
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Door/M_DoorWindow",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/PHU/M_PHU",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Frame/M_Frame",
+				"/Game/ThirdPerson/3D_Models/WallAndFloor/M_Floor2",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/OldMonitor/M_MonitorOld",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Door/M_Door1",
+				"/Game/ConveyorBelt/ParcelTextures/LP2/M_LP2",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Speaker/M_SpeakerNew",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Trolley/M_Trolley",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Tower/M_Tower",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Conveyor/M_Conveyor",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Electric/ElectricMats/M_ElectricalDoor2",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Electric/ElectricMats/M_ElectricalDoor",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Fax/M_Fax",
+				"/Game/ConveyorBelt/ParcelTextures/SP1/M_SP1",
+				"/Game/ConveyorBelt/ParcelTextures/SL1/M_SL1",
+				"/Game/ConveyorBelt/ParcelTextures/LP1/M_LP1",
+				"/Game/ConveyorBelt/ParcelTextures/LL2/M_LL2",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Doormat/M_Doormat",
+				"/Game/ConveyorBelt/ParcelTextures/SP2/M_SP2",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Locker/M_Locker2",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Electric/ElectricMats/M_ElectricalBack",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Phone/M_Phone",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/PencilPot/M_PencilPot",
+				"/Game/ConveyorBelt/ParcelTextures/LP3/M_LP3",
+				"/Game/ConveyorBelt/ParcelTextures/LL1/M_LL1",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Crate/M_Crate1",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Bin/M_bin",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Mug/M_Mug",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Crate/M_Crate2",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Chair/M_Chair2",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Chair/M_Chair1",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Keyboard/M_Keyboard",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Xray/M_XRay",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Mouse/M_Mouse",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Desk/M_Desk",
+				"/Game/ConveyorBelt/ParcelTextures/SL2/M_SL2",
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Camera/M_Camera"
 			]
 		},
 		{
 			"ShaderMapHash": "7B45E21269A55177C7F98777E24CA93995E07902",
 			"Assets": [
 				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button2",
-				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/panel_and_lights/M_Panel",
-				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/screens/M_ScreenBlank",
-				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button4",
-				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button5",
-				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_ButtonEnter",
-				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button6",
-				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button7",
-				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button1",
 				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button3",
 				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_ButtonBack",
 				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button8",
 				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button9",
 				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button0",
-				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/screens/M_ScreenStar"
-			]
-		},
-		{
-			"ShaderMapHash": "2630992DDBC1C91AE10D17690BEBC31127FBED4E",
-			"Assets": [
-				"/Game/ThirdPerson/3D_Models/3D_Textures/Electric/ElectricMats/M_ElectricalDoor3"
-			]
-		},
-		{
-			"ShaderMapHash": "9E9B38A9926B2303AA1A4DE1DD8388FCAF47D0ED",
-			"Assets": [
-				"/Game/ThirdPerson/Blueprints/M_Reflect"
+				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/screens/M_ScreenStar",
+				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/panel_and_lights/M_Panel",
+				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button1",
+				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button7",
+				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button6",
+				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_ButtonEnter",
+				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button5",
+				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/buttons/M_Button4",
+				"/Game/ThirdPerson/Blueprints/Interactives/Keypad/Images/screens/M_ScreenBlank"
 			]
 		},
 		{
@@ -617,15 +581,57 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F0711D20A315ED32986DF1E392BCEE88F2211A53",
+			"ShaderMapHash": "6DBC3DC46FC9EED211D7139B6991F169A8C9E83D",
 			"Assets": [
-				"/Game/ThirdPerson/PostProcess/M_Outline"
+				"/Paper2D/TranslucentUnlitSpriteMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "C90D46521B6BECFE2BA0AC5DD13F92567F9427C2",
+			"ShaderMapHash": "9E9B38A9926B2303AA1A4DE1DD8388FCAF47D0ED",
 			"Assets": [
-				"/Game/ThirdPerson/Blueprints/Interactives/Tutorials/Videos/M_Tutorial"
+				"/Game/ThirdPerson/Blueprints/M_Reflect"
+			]
+		},
+		{
+			"ShaderMapHash": "2630992DDBC1C91AE10D17690BEBC31127FBED4E",
+			"Assets": [
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Electric/ElectricMats/M_ElectricalDoor3"
+			]
+		},
+		{
+			"ShaderMapHash": "47A61AA49C21E7D088510B1C747C1B23F8086FCA",
+			"Assets": [
+				"/Game/ThirdPerson/3D_Models/3D_Textures/Locker/M_Locker1"
+			]
+		},
+		{
+			"ShaderMapHash": "BF2A2C32A310C4546CFD1193B7A15B87796BE9F8",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "10C06BE0E398178D19B8D8BDAF75F8E7985C8717",
+			"Assets": [
+				"/Game/ThirdPerson/ImageTextures/SpeakerFaces/AMI_Flipbooks/AMI_Confused"
+			]
+		},
+		{
+			"ShaderMapHash": "CE560AD3E06F3018E846AD12E46F69E368D43D19",
+			"Assets": [
+				"/Game/ThirdPerson/ImageTextures/SpeakerFaces/AMI_Flipbooks/AMI_Blink"
+			]
+		},
+		{
+			"ShaderMapHash": "3F9AB1109592C2EF472A9D2F82C0BC9E5DFF75E3",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "4CF1E365754A5D6CA1A38F3A958A1537015E55F4",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
 			]
 		}
 	]
